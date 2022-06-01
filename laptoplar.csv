@@ -1,0 +1,1126 @@
+brand,screen,procesor,RAM,Disk,Graphic Card,Operation System,Price(zł)
+HP,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-11300H,8,512 GB SSD,NVIDIA GeForce GTX 1650,Brak,3.599
+APPLE,"16.2"", 3456 x 2234px, 120Hz",Apple M1 Pro,16,512 GB SSD,Apple M1 Pro (16 rdzeni),macOS Monterey,11.999
+ASUS,"14"", 2560 x 1440px, 120Hz",AMD Ryzen 7 5800HS,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.399
+HP,"17.3"", 1920 x 1080px, 144Hz",Intel Core i5-11300H,8,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 11 Home,5.099
+DELL,"15.6"", 1920 x 1080px, 165Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Windows 11 Home,6.999
+ACER,"17.3"", 2560 x 1440px, 165Hz",AMD Ryzen 7 5800H,16,1000 GB SSD,NVIDIA GeForce RTX 3080,Windows 10 Home,8.655
+HUAWEI,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5500U,8,512 GB SSD,AMD Radeon Graphics,Windows 11 Home,2.999
+APPLE,"13.3"", 2560 x 1600px",Apple M1,8,256 GB SSD,Apple M1 (8 rdzeni),macOS Big Sur,5.839
+LENOVO,"15.6"", 1920 x 1080px, 165Hz",AMD Ryzen 5 5600H,16,512 GB SSD,NVIDIA GeForce RTX 3060,Windows 11 Home,5.999
+LENOVO,"15.6"", 1920 x 1080px, 165Hz",Intel Core i5-11400H,8,512 GB SSD,NVIDIA GeForce GTX 1650,Brak,2.999
+LG ELECTRONICS POLSKA SP. Z O.O.,"16"", 2560 x 1600px, 60Hz",Intel Core i7-1165G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,5.714
+HP,"16.1"", 1920 x 1080px, 144Hz",AMD Ryzen 5 5600H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Home,4.299
+MSI,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,8,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,4.599
+DELL,"15.6"", 1920 x 1080px",Intel Core i7-10750H,16,1000 GB SSD,NVIDIA GeForce GTX 1660 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),7.099
+DELL,"15.6"", 1920 x 1080px, 165Hz",Intel Core i7-11800H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Linux,6.299
+HP,"15.6"", 1920 x 1080px, Ekran dotykowy, 60Hz",AMD Ryzen 5 5500U,16,512 GB SSD,AMD Radeon Graphics,Windows 11 Home,3.999
+ACER,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 11 Home,5.799
+DELL,"13.3"", 1920 x 1080px, 60Hz",Intel Core i5-11320H,8,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.799
+ACER,"13.5"", 2256 x 1504px, Dotykowy",Intel Pentium Gold 6405U,4,64 GB Flash,Intel UHD Graphics,Chrome OS,2.749
+HUAWEI,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,3.199
+ACER,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-10300H,16,1000 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,5.199
+DELL,"15.6"", 1920 x 1080px, 120Hz",AMD Ryzen 5 5600H,8,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,3.999
+LENOVO,"14"", 1920 x 1080px, 60Hz",AMD Ryzen 7 5700U,16,512 GB SSD,AMD Radeon Graphics,Windows 11 Home,3.099
+HP,"16.1"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5600H,8,512 GB SSD,NVIDIA GeForce GTX 1650,Windows 11 Home,3.399
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Athlon Silver 3050U,4,128 GB SSD,AMD Radeon Graphics,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),1.799
+ASUS,"15.6"", 1920 x 1080px, 60Hz",Intel Core i3-1005G1,8,256 GB SSD,Intel UHD Graphics,Windows 11 Home S,1.999
+ASUS,"14"", 2880 x 1800px, 90Hz",AMD Ryzen 7 5800H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),5.599
+ASUS,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-11370H,16,512 GB SSD,NVIDIA GeForce RTX 3060,Windows 11 Home,4.999
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5500U,8,512 GB SSD,AMD Radeon Graphics,Windows 11 Home,2.799
+ASUS,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-11300H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,3.999
+ACER,"14"", 1920 x 1080px, 60Hz",Intel Celeron N4500,4,128 GB Flash,Intel UHD Graphics,Windows 11 Home S,1.399
+ASUS,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,3.999
+ASUS,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 3 3250U,8,256 GB SSD,AMD Radeon Graphics,Windows 11 Home S,1.999
+ASUS,"14"", 1366 x 768px, 60Hz",Intel Celeron N4020,4,128 GB SSD,Intel UHD Graphics 600,Windows 11 Home S,1.299
+HP,"15.6"", 1920 x 1080px, 60Hz",Intel Core i3-1115G4,8,256 GB SSD,Intel UHD Graphics,Windows 11 Home,2.299
+LENOVO,"15.6"", 1920 x 1080px, 165Hz",AMD Ryzen 5 5600H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,4.549
+ACER,"14"", 1920 x 1080px, 60Hz",Intel Celeron N4500,4,128 GB Flash,Intel UHD Graphics,Windows 11 Home S,1.399
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5600H,8,512 GB SSD,NVIDIA GeForce GTX 1650,Windows 11 Home,4.199
+HUAWEI,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,2.799
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 3 5300U,8,256 GB SSD,AMD Radeon Graphics,Windows 10 Home,2.399
+HP,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1155G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,3.099
+ACER,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5500U,8,512 GB SSD,AMD Radeon Graphics,Windows 11 Home,2.799
+HP,"15.6"", 1920 x 1080px, 144Hz",AMD Ryzen 7 5800H,8,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 11 Home,5.299
+ACER,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,2.799
+APPLE,"14.2"", 3024 x 1964px, 120Hz",Apple M1 Pro,16,512 GB SSD,Apple M1 Pro (14 rdzeni),macOS Monterey,10.799
+APPLE,"14.2"", 3024 x 1964px, 120Hz",Apple M1 Pro,16,1000 GB SSD,Apple M1 Pro (16 rdzeni),macOS Monterey,12.399
+DELL,"13.3"", 1920 x 1080px, 60Hz",Intel Core i5-10210U,8,512 GB SSD,Intel UHD Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),6.695
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5600H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.699
+DELL,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5500U,16,512 GB SSD,AMD Radeon Graphics,Windows 10 Home,3.499
+TECHBITE,"14.1"", 1366 x 768px",Intel Celeron N4020,4,128 GB SSD,Intel UHD Graphics 600,Windows 10 Professional,1.199
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5600H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,3.899
+MSI,"17.3"", 1920 x 1080px, 144Hz",Intel Core i7-11800H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 11 Home,5.899
+DELL,"15.6"", 1920 x 1080px, 120Hz",AMD Ryzen 5 5600H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,4.499
+LENOVO,"15.6"", 1920 x 1080px, 120Hz",Intel Core i5-11300H,8,512 GB SSD,NVIDIA GeForce GTX 1650,Windows 11 Home,3.749
+DELL,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5500U,8,512 GB SSD,AMD Radeon Graphics,Windows 11 Home,2.999
+APPLE,"13.3"", 2560 x 1600px, 60Hz",Apple M1,16,512 GB SSD,Apple M1 (8 rdzeni),macOS Big Sur,6.599
+LENOVO,"15.6"", 1920 x 1080px, 120Hz",AMD Ryzen 5 5600H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 10 Home,4.599
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-9300HF,8,512 GB SSD,NVIDIA GeForce GTX 1650,Windows 11 Home,3.299
+ASUS,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel UHD Graphics,Windows 11 Home,2.999
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i5-10500H,8,512 GB SSD,NVIDIA GeForce GTX 1650,Linux,2.999
+DELL,"15.6"", 1920 x 1080px, 120Hz",AMD Ryzen 5 5600H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.999
+ACER,"17.3"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,2.999
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5600H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Brak,3.999
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5600H,8,512 GB SSD,NVIDIA GeForce RTX 3050,Brak,3.199
+HP,"15.6"", 1920 x 1080px, 60Hz",Intel Core i3-1115G4,8,256 GB SSD,Intel UHD Graphics,Windows 10 Home,2.399
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-9300HF,16,512 GB SSD,NVIDIA GeForce GTX 1650,Windows 11 Home,3.399
+ASUS,"17.3"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,4.499
+HIRO,"15.6"", 1920 x 1080px, 60Hz",Intel Core i7-10750H,8,512 GB SSD,NVIDIA GeForce GTX 1650 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),5.399
+ASUS,"15.6"", 1366 x 768px, 60Hz",Intel Celeron N4020,4,128 GB Flash,Intel UHD Graphics 600,Windows 11 Home S,1.443
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5600H,8,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.604
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5600H,8,512 GB SSD,NVIDIA GeForce GTX 1650,Windows 10 Home,3.499
+HP,"17.3"", 1920 x 1080px, 60Hz",Intel Core i5-1155G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,3.499
+HIRO,"15.6"", 1920 x 1080px, 240Hz",Intel Core i7-10750H,16,512 GB SSD,NVIDIA GeForce RTX 2070,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),7.799
+ASUS,"14"", 1920 x 1080px, Ekran dotykowy, 60Hz",AMD Ryzen 5 5500U,8,512 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.299
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-11300H,8,512 GB SSD,NVIDIA GeForce RTX 3050,Brak,3.299
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Athlon Silver 3050U,8,256 GB SSD,AMD Radeon Graphics,Windows 11 Home,1.999
+ASUS,"15.6"", 1920 x 1080px, 60Hz",Intel Core i3-1005G1,4,256 GB SSD,Intel UHD Graphics,Brak,2.299
+HIRO,"15.6"", 1920 x 1080px, 240Hz",Intel Core i7-10750H,16,1000 GB SSD,NVIDIA GeForce RTX 2080 Super,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),10.699
+ASUS,"15.6"", 1920 x 1080px, 144Hz",AMD Ryzen 7 4800H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,4.199
+LENOVO,"15.6"", 1920 x 1080px, 120Hz",AMD Ryzen 5 5600H,16,1000 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Home,4.899
+DELL,"15.6"", 1920 x 1080px, 120Hz",AMD Ryzen 5 5600H,8,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,3.899
+HUAWEI,"14"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,2.999
+APPLE,"16.2"", 3456 x 2234px, 120Hz",Apple M1 Pro,16,512 GB SSD,Apple M1 Pro (16 rdzeni),macOS Monterey,12.299
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 7 5800H,8,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),5.291
+ASUS,"17.3"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,4.389
+MSI,"17.3"", 1920 x 1080px, 144Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Windows 11 Home,7.899
+LENOVO,"14"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5500U,8,512 GB SSD,AMD Radeon Graphics,Brak,2.499
+ACER,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Brak,4.699
+APPLE,"13.3"", 2560 x 1600px",Apple M1,8,512 GB SSD,Apple M1 (8 rdzeni),macOS Big Sur,7.399
+HUAWEI,"16"", 2520 x 1680px, 60Hz",AMD Ryzen 5 5600H,16,512 GB SSD,AMD Radeon Graphics,Windows 11 Home,4.499
+ASUS,"14"", 1920 x 1080px, 60Hz",Intel Celeron N4020,4,128 GB SSD,Intel UHD Graphics 600,Windows 11 Home S,1.799
+LENOVO,"15.6"", 1920 x 1080px, 165Hz",Intel Core i5-11400H,8,512 GB SSD,NVIDIA GeForce RTX 3060,Windows 11 Home,5.799
+LENOVO,"15.6"", 1920 x 1080px, 120Hz",AMD Ryzen 5 5600H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Brak,3.899
+MICROSOFT,"13"", 2880 x 1920px, Ekran dotykowy, 60 - 120Hz",Intel Core i5-1135G7,8,128 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,4.599
+HP,"16.1"", 1920 x 1080px, 144Hz",Intel Core i7-11800H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Brak,5.499
+ASUS,"15.6"", 2560 x 1440px, 165Hz",AMD Ryzen 7 6800H,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Windows 11 Home,6.899
+LG ELECTRONICS POLSKA SP. Z O.O.,"17"", 2560 x 1600px, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,5.279
+HP,"17.3"", 1920 x 1080px, 144Hz",Intel Core i5-11300H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 11 Home,5.299
+ACER,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-10750H,32,1000 GB SSD,NVIDIA GeForce RTX 3080,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),8.399
+APPLE,"13.3"", 2560 x 1600px, 60Hz",Apple M1,16,1000 GB SSD,Apple M1 (8 rdzeni),macOS Big Sur,8.499
+APPLE,"14.2"", 3024 x 1964px, 120Hz",Apple M1 Pro,16,1000 GB SSD,Apple M1 Pro (16 rdzeni),macOS Monterey,11.699
+MICROSOFT,"10.5"", 1920 x 1280px, Ekran dotykowy",Intel Pentium Gold 6500Y,8,128 GB SSD,Intel UHD Graphics 615,Windows 11 Home,3.299
+HP,"17.3"", 1920 x 1080px, 144Hz",Intel Core i5-11300H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,5.099
+DELL,"14"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Professional,3.799
+ASUS,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1035G1,8,512 GB SSD,Intel UHD Graphics,Windows 11 Home,3.299
+MSI,"17"", 2560 x 1600px, Ekran dotykowy, 165Hz",32,2000 GB SSD,NVIDIA GeForce RTX 3070 Ti,Windows 11 Professional,2.4 - 5.1,15.199
+LENOVO,"15.6"", 1920 x 1080px, 120Hz",AMD Ryzen 5 5600H,8,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Brak,3.999
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 7 5800H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Brak,4.299
+MICROSOFT,"10.5"", 1920 x 1280px, Ekran dotykowy, 60Hz",Intel Pentium Gold 4425Y,8,128 GB SSD,Intel HD Graphics 615,Windows 10 S (możliwość darmowej aktualizacji do Windows 11),3.299
+ACER,"16"", 2560 x 1600px, 165Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3070,Windows 10 Home,10.799
+DELL,"15.6"", 1920 x 1080px, 120Hz",AMD Ryzen 7 5800H,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Windows 11 Home,6.199
+ACER,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),6.289
+DELL,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,3.699
+ASUS,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,Intel UHD Graphics,Windows 11 Home,3.199
+HP,"16.1"", 1920 x 1080px, 144Hz",AMD Ryzen 5 5600H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Brak,4.299
+LENOVO,"15.6"", 1920 x 1080px, 120Hz",AMD Ryzen 7 5800H,8,512 GB SSD,NVIDIA GeForce GTX 1650,Brak,3.599
+ASUS,"16"", 3840 x 2400px, 60Hz",Intel Core i7-11370H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Professional,6.799
+DELL,"13.3"", 1920 x 1080px, Ekran dotykowy, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.899
+ASUS,"15.6"", 1920 x 1080px, 144Hz",AMD Ryzen 7 4800H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 11 Home,5.499
+ACER,"15.6"", 1920 x 1080px, 144Hz",AMD Ryzen 7 5800H,16,1000 GB SSD,NVIDIA GeForce RTX 3070,Windows 11 Home,6.535
+MICROSOFT,"13"", 2880 x 1920px, Ekran dotykowy, 60 - 120Hz",Intel Core i7-1185G7,16,256 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,7.699
+HP,"16.1"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Home,4.999
+LENOVO,"16"", 2560 x 1600px, 165Hz",AMD Ryzen 7 5800H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 11 Home,5.299
+MICROSOFT,"13.5"", 2256 x 1504px, Ekran dotykowy, 60Hz",AMD Ryzen 5 4680U,8,256 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.599
+HP,"16.1"", 2560 x 1440px, 165Hz",AMD Ryzen 7 5800H,16,512 GB SSD,NVIDIA GeForce RTX 3070,Brak,7.599
+DELL,"14"", 1920 x 1080px, 60Hz",Intel Core i3-1115G4,4,256 GB SSD,Intel UHD Graphics,Linux,2.399
+HP,"16.1"", 1920 x 1080px, 144Hz",AMD Ryzen 7 5800H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Brak,4.799
+ASUS,"14"", 2880 x 1800px",Intel Core i7-11370H,16,1000 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),5.599
+ASUS,"15.6"", 2560 x 1440px, 165Hz",AMD Ryzen 9 5900HS,16,512 GB SSD,NVIDIA GeForce RTX 3070,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),9.999
+ACER,"15.6"", 1920 x 1080px, 60Hz",Intel Core i7-10750H,16,1000 GB SSD,NVIDIA Quadro T1000,Windows 10 Professional,5.949
+APPLE,"13.3"", 2560 x 1600px",Apple M1,8,512 GB SSD,Apple M1 (8 rdzeni),macOS Big Sur,6.706
+HP,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-11370H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 11 Home,5.799
+ACER,"15.6"", 1920 x 1080px, 144Hz",AMD Ryzen 7 5800H,32,1000 GB SSD,NVIDIA GeForce RTX 3060,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),7.349
+LG ELECTRONICS POLSKA SP. Z O.O.,"17"", 2560 x 1600px, 60Hz",Intel Core i7-1165G7,16,1000 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,6.599
+ASUS,"16"", 1920 x 1200px, 144Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),8.399
+HP,"17.3"", 1920 x 1080px, 144Hz",Intel Core i5-11300H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Brak,4.699
+DELL,"15.6"", 1920 x 1080px, 165Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Windows 11 Professional,7.899
+DELL,"14.5"", 2560 x 1600px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.599
+ACER,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,6.319
+LENOVO,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-10750H,16,1000 GB SSD,NVIDIA GeForce RTX 2060,Brak,6.999
+DELL,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Professional,3.29
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5500U,8,256 GB SSD,AMD Radeon Graphics,Windows 11 Home,3.099
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5500U,8,512 GB SSD,AMD Radeon Graphics,Windows 11 Home,3.199
+ASUS,"17.3"", 1920 x 1080px, 144Hz",AMD Ryzen 7 6800H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,5.599
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5600H,16,512 GB SSD,NVIDIA GeForce GTX 1650,Windows 11 Home,4.399
+HP,"16.1"", 1920 x 1080px, 144Hz",Intel Core i7-11800H,16,512 GB SSD,NVIDIA GeForce RTX 3060,Brak,6.199
+PRESTIGIO,"14.1"", 1366 x 768px, 60Hz",AMD A4-9120e,4,128 GB Flash,AMD Radeon R3,Windows 10 Professional,1.499
+ACER,"16"", 2560 x 1600px, 165Hz",Intel Core i9-11900H,16,1000 GB SSD,NVIDIA GeForce RTX 3080,Windows 10 Home,14.499
+DELL,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Professional,5.399
+HP,"16.1"", 1920 x 1080px, 144Hz",AMD Ryzen 5 5600H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 10 Home,4.999
+ACER,"15.6"", 3840 x 2160px, Ekran dotykowy, 60Hz",Intel Core i7-11800H,64,1000 GB SSD,NVIDIA RTX A5000,Windows 11 Professional,15.649
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-11300H,8,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Brak,4.414
+ACER,"16"", 2560 x 1600px, 240Hz",Intel Core i9-12900H,16,2000 GB SSD,NVIDIA GeForce RTX 3080 Ti,Windows 11 Home,20.799
+ACER,"16"", 2560 x 1600px, 240Hz",Intel Core i9-12900H,16,1000 GB SSD,NVIDIA GeForce RTX 3080 Ti,Windows 11 Home,19.899
+MSI,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-11800H,16,512 GB SSD,NVIDIA GeForce RTX 3070,Brak,7.499
+ASUS,"14"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.799
+ACER,"17.3"", 1920 x 1080px, 60Hz",Intel Core i3-1115G4,8,256 GB SSD,Intel UHD Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.649
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,256 GB SSD,Intel Iris Xe Graphics,Windows 11 Professional,3.624
+LENOVO,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-10750H,16,512 GB SSD,NVIDIA GeForce RTX 2080 Super Max-Q,Brak,9.099
+ASUS,"14"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5500U,16,512 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.999
+MICROSOFT,"13.5"", 2256 x 1504px, Ekran dotykowy, 60Hz",Intel Core i5-1145G7,8,512 GB SSD,Intel Iris Plus Graphics 950,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),6.699
+DELL,"14"", 1920 x 1080px, 60Hz",Intel Core i7-1165G7,8,512 GB SSD,NVIDIA GeForce MX330,Windows 10 Home,4.299
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i5-11260H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Linux,4.499
+LENOVO,"15.6"", 1920 x 1080px, 120Hz",Intel Core i7-11370H,8,512 GB SSD,NVIDIA GeForce GTX 1650,Brak,3.604
+ASUS,"13.4"", 3840 x 2400px, Ekran dotykowy, 60Hz",AMD Ryzen 9 5980HS,16,512 GB SSD,NVIDIA GeForce GTX 1650,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),10.799
+DELL,"15.6"", 1920 x 1080px, 60Hz",Intel Core i3-1115G4,8,256 GB SSD,Intel UHD Graphics,Windows 11 Home S,2.799
+APPLE,"13.3"", 2560 x 1600px, 60Hz",Apple M1,16,2000 GB SSD,Apple M1 (8 rdzeni),macOS Big Sur,11.799
+DYNABOOK,"13.3"", 1920 x 1080px",Intel Core i5-8250U,8,256 GB SSD,Intel UHD Graphics 620,Windows 10 Professional,4.299
+ACER,"14"", 1920 x 1080px, 60Hz",Intel Core i7-10750H,16,1000 GB SSD,NVIDIA Quadro T1000,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),5.699
+ACER,"14"", 1920 x 1080px, Ekran dotykowy, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.499
+DELL,"13.3"", 1920 x 1080px, Ekran dotykowy, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.999
+DELL,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,256 GB SSD,Intel UHD Graphics,Windows 11 Home,3.299
+MAXCOM,"14"", 1920 x 1080px, 60Hz",Intel Celeron J4125,8,256 GB SSD,Intel UHD Graphics 600,Windows 10 Home,1.749
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-11300H,8,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,4.504
+RAZER,"13.4"", 1920 x 1200px, Ekran dotykowy, 60Hz",Intel Core i7-1165G7,16,256 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),6.999
+MSI,"17.3"", 1920 x 1080px, 144Hz",Intel Core i5-10500H,8,512 GB SSD,NVIDIA GeForce RTX 3060 Max-Q,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),5.199
+LENOVO,"14"", 1920 x 1080px, 60Hz",Intel Core i5-1035G1,8,1000 GB SSD,Intel UHD Graphics,Brak,3.001
+MSI,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),3.799
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5500U,8,256 GB SSD,AMD Radeon Graphics,Windows 10 Home,3.099
+ACER,"15.6"", 2560 x 1440px, 165Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3080,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),10.999
+DELL,"13.3"", 1920 x 1080px, 60Hz",Intel Core i5-11320H,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,4.399
+MSI,"17.3"", 1920 x 1080px, 144Hz",Intel Core i7-11800H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Brak,4.799
+DELL,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5500U,16,512 GB SSD,AMD Radeon Graphics,Windows 11 Professional,4.099
+DELL,"13.3"", 1920 x 1080px, Ekran dotykowy, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,5.299
+DELL,"13.3"", 1920 x 1080px, Ekran dotykowy, 60Hz",Intel Core i5-1135G7,8,Intel Iris Xe Graphics,Windows 11 Professional,Intel Core i5-1135G7,4.639
+APPLE,"14.2"", 3024 x 1964px, 120Hz",Apple M1 Pro,16,512 GB SSD,Apple M1 Pro (14 rdzeni),macOS Monterey,10.799
+DELL,"14"", 1920 x 1080px, Ekran dotykowy, 60Hz",Intel Core i5-1155G7,8,512 GB SSD,NVIDIA GeForce MX350,"Windows 11 Professional, Uaktualnienie do Windows 11",4.999
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i5-10500H,16,512 GB SSD,NVIDIA GeForce GTX 1650,Windows 11 Professional,5.299
+DELL,"13.3"", 1920 x 1080px, Ekran dotykowy, 60Hz",Intel Core i7-1165G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),7.599
+DELL,"13.3"", 1920 x 1080px, 60Hz",Intel Core i7-1165G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Professional,6.999
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i7-11800H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Linux,5.599
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i5-11400H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Professional,5.599
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i5-10500H,16,512 GB SSD,NVIDIA GeForce GTX 1650,Linux,4.699
+DELL,"13.3"", 3840 x 2160px, 60Hz",Intel Core i7-1165G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Professional,8.399
+HP,"16.1"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5600H,8,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,4.399
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5600H,8,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.299
+HP,"15.6"", 1920 x 1080px, 144Hz",AMD Ryzen 7 5800H,8,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,4.999
+ACER,"17.3"", 1920 x 1080px, 360Hz",Intel Core i7-11800H,32,1000 GB SSD,NVIDIA GeForce RTX 3070,Windows 10 Home,10.999
+HP,"14"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5500U,8,512 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.399
+HP,"16.1"", 2560 x 1440px, 165Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Brak,6.899
+DELL,"15.6"", 1920 x 1080px, 360Hz",Intel Core i7-11800H,16,512 GB SSD,NVIDIA GeForce RTX 3060,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),7.699
+LENOVO,"15.6"", 1920 x 1080px",Intel Core i5-1035G1,8,256 GB SSD,Intel UHD Graphics,Windows 10 Professional,3.199
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i7-10750H,8,512 GB SSD,NVIDIA GeForce GTX 1650 Ti,Linux,4.549
+DELL,"13.3"", 1920 x 1080px, Ekran dotykowy, 60Hz",Intel Core i5-8365U,8,256 GB SSD,Intel UHD Graphics 620,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),8.399
+APPLE,"13.3"", 2560 x 1600px",Intel Core i5-1038NG7,16,1000 GB SSD,Intel Iris Plus Graphics,macOS Catalina,9.493
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 4500U,8,256 GB SSD,AMD Radeon Graphics,Windows 10 Professional,3.491
+MICROSOFT,"13.5"", 2256 x 1504px, Dotykowy",Intel Core i7-1065G7,16,1000 GB SSD,Intel Iris Plus Graphics,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),12.999
+DELL,"13.3"", 2560 x 1600px, 60Hz",Intel Core i5-11320H,8,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,4.099
+ASUS,"15.6"", 2560 x 1440px, 165Hz",AMD Ryzen 7 5800HS,16,512 GB SSD,NVIDIA GeForce RTX 3060,Brak,8.499
+LG ELECTRONICS POLSKA SP. Z O.O.,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),5.699
+HP,"13.3"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.299
+MICROSOFT,"15"", 2496 x 1664px, Ekran dotykowy, 60Hz",AMD Ryzen 7 4980U,8,256 GB SSD,AMD Radeon RX Vega 11,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),6.699
+DELL,"15.6"", 1920 x 1080px, 120Hz",AMD Ryzen 5 5600H,8,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.899
+ACER,"15.6"", 2560 x 1440px, 165Hz",AMD Ryzen 9 5900HX,16,1000 GB SSD,NVIDIA GeForce RTX 3080,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),10.999
+LENOVO,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-10750H,16,512 GB SSD,NVIDIA GeForce RTX 2080 Super Max-Q,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),9.499
+ASUS,"14"", 2560 x 1440px, 120Hz",AMD Ryzen 7 5800HS,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),5.199
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 3 5300U,8,256 GB SSD,AMD Radeon Graphics,Windows 10 Professional,2.849
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5500U,8,512 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.149
+DELL,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 3450U,8,256 GB SSD,AMD Radeon Vega 8,Windows 10 Professional,3.199
+RAZER,"13.3"", 1920 x 1080px, 120Hz",Intel Core i7-1165G7,16,512 GB SSD,NVIDIA GeForce GTX 1650 Ti Max-Q,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),9.399
+LENOVO,"15.6"", 1920 x 1080px, 120Hz",AMD Ryzen 5 5600H,8,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Brak,4.213
+ASUS,"15.6"", 2560 x 1440px, 165Hz",AMD Ryzen 7 5800HS,16,1000 GB SSD,NVIDIA GeForce RTX 3070,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),9.599
+HUAWEI,"14.2"", 2520 x 1680px, Ekran dotykowy, 90Hz",Intel Core i7-11370H,16,1000 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),7.499
+ACER,"15.6"", 2560 x 1440px, 165Hz",Intel Core i7-12700H,16,1000 GB SSD,NVIDIA GeForce RTX 3070 Ti,Brak,9.199
+ACER,"15.6"", 1920 x 1080px, 165Hz",Intel Core i7-12700H,32,1000 GB SSD,NVIDIA GeForce RTX 3070 Ti,Windows 11 Home,10.299
+ACER,"17.3"", 1920 x 1080px, 144Hz",Intel Core i7-12700H,16,1000 GB SSD,NVIDIA GeForce RTX 3070 Ti,Windows 11 Home,9.849
+ACER,"15.6"", 1920 x 1080px, 165Hz",Intel Core i7-12700H,32,1000 GB SSD,NVIDIA GeForce RTX 3070 Ti,Windows 11 Home,10.049
+ACER,"15.6"", 1920 x 1080px, 360Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3070,Windows 10 Home,9.799
+ACER,"15.6"", 1920 x 1080px, 360Hz",Intel Core i7-11800H,32,1000 GB SSD,NVIDIA GeForce RTX 3070,Windows 10 Home,10.299
+ACER,"15.6"", 2560 x 1440px, 165Hz",Intel Core i7-11800H,32,1000 GB SSD,NVIDIA GeForce RTX 3070,Windows 10 Home,10.099
+ACER,"17.3"", 1920 x 1080px, 144Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3070,Windows 11 Home,10.999
+ACER,"17.3"", 2560 x 1440px, 165Hz",Intel Core i7-11800H,32,1000 (x2) GB SSD,NVIDIA GeForce RTX 3070,Windows 10 Home,11.199
+ACER,"17.3"", 2560 x 1440px, 165Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3070,Windows 10 Home,9.899
+ACER,"17.3"", 2560 x 1440px, 165Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Windows 10 Home,8.849
+ACER,"15.6"", 1920 x 1080px, 60Hz",Intel Core i7-1195G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,3.299
+REALME,"14"", 2160 x 1140px, 60Hz",Intel Core i5-11320H,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,3.799
+ACER,"15.6"", 1920 x 1080px, 60Hz",Intel Core i7-1195G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,3.599
+ACER,"17.3"", 2560 x 1440px, 165Hz",Intel Core i7-11800H,32,1000 GB SSD,NVIDIA GeForce RTX 3070,Windows 10 Home,12.399
+LENOVO,"16"", 2560 x 1600px, 60Hz",Intel Core i5-11300H,16,512 GB SSD,NVIDIA GeForce MX450,Brak,4.249
+LENOVO,"16"", 2560 x 1600px, 120Hz",AMD Ryzen 5 5600H,16,512 GB SSD,NVIDIA GeForce GTX 1650,Brak,4.449
+DELL,"16"", 1920 x 1200px, 60Hz",AMD Ryzen 5 5625U,16,512 GB SSD,AMD Radeon Graphics,Windows 11 Professional,4.499
+ACER,"17.3"", 1920 x 1080px, 144Hz",Intel Core i9-11900H,32,1000 GB SSD,NVIDIA GeForce RTX 3070,Windows 11 Home,11.999
+REALME,"14"", 2160 x 1140px, 60Hz",Intel Core i5-11320H,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,3.799
+ACER,"17.3"", 1920 x 1080px, 144Hz",AMD Ryzen 5 5600H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 11 Home,4.719
+ACER,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1155G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,2.999
+ACER,"17.3"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,512 GB SSD,NVIDIA GeForce RTX 3060,Brak,5.559
+DELL,"13.3"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,7.499
+ACER,"15.6"", 2560 x 1440px, 165Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3070,Windows 10 Home,8.499
+LENOVO,"17.3"", 1920 x 1080px, 144Hz",AMD Ryzen 5 5600H,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Brak,6.099
+ACER,"15.6"", 1920 x 1080px, 144Hz",AMD Ryzen 7 5800H,16,1000 GB SSD,NVIDIA GeForce RTX 3070,Windows 10 Home,7.299
+ACER,"15.6"", 1920 x 1080px, 165Hz",AMD Ryzen 7 5800H,16,1000 GB SSD,NVIDIA GeForce RTX 3080,Windows 10 Home,9.521
+LENOVO,"15.6"", 1920 x 1080px, 120Hz",AMD Ryzen 5 5600H,8,512 GB SSD,NVIDIA GeForce GTX 1650,Brak,3.019
+ACER,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-11800H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Brak,5.099
+MAXCOM,"14"", 1920 x 1080px, 60Hz",Intel Celeron J4125,8,256 GB SSD,Intel UHD Graphics 600,Windows 10 Home,1.749
+LENOVO,"14"", 1920 x 1080px, 60Hz",AMD Ryzen 5 4500U,8,512 GB SSD,AMD Radeon Graphics,Windows 10 Home,3.199
+HP,"16.1"", 2560 x 1440px, 165Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Brak,6.799
+MSI,"15.6"", 2560 x 1440px, 165Hz",Intel Core i7-12700H,16,1000 GB SSD,NVIDIA GeForce RTX 3070 Ti,Brak,9.399
+ACER,"15.6"", 1920 x 1080px, 144Hz",AMD Ryzen 5 5600H,16,2000 GB HDD + 1000 GB SSD,NVIDIA GeForce RTX 3060,Brak,6.399
+ACER,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-10300H,8,512 GB SSD,NVIDIA GeForce RTX 3050,Brak,3.889
+ACER,"15.6"", 1920 x 1080px, 144Hz",AMD Ryzen 5 5600H,32,1000 GB SSD,NVIDIA GeForce RTX 3070,Brak,7.599
+ASUS,"17.3"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,4.559
+HP,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-11300H,8,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Brak,4.649
+MICROSOFT,"14.4"", 2400 x 1600px, Ekran dotykowy, 120Hz",Intel Core i7-11370H,32,1000 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 10 Home,14.799
+LENOVO,"14"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,256 GB SSD,Intel Iris Xe Graphics,Windows 10 Professional,3.249
+ASUS,"13.4"", 1920 x 1200px, Ekran dotykowy, 120Hz",Intel Core i9-12900H,16,1000 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 11 Home,9.499
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",Intel Core i3-1115G4,8,256 GB SSD,Intel UHD Graphics,Windows 10 Professional,3.499
+ACER,"17.3"", 2560 x 1440px, 165Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3070,Windows 10 Home,12.499
+ASUS,"15.6"", 1920 x 1080px, 300Hz",Intel Core i9-12900H,16,1000 GB SSD,NVIDIA GeForce RTX 3080,Windows 11 Home,12.299
+DELL,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,NVIDIA GeForce MX350,Windows 11 Home,4.099
+DELL,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Professional,3.899
+DELL,"16"", 1920 x 1200px, 60Hz",AMD Ryzen 7 5825U,16,512 GB SSD,AMD Radeon Graphics,Windows 11 Professional,5.099
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i5-11260H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Professional,5.199
+DELL,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,NVIDIA GeForce MX350,Windows 11 Professional,4.299
+ASUS,"14"", 1920 x 1080px, 60Hz",Intel Celeron N4020,4,128 GB SSD,Intel UHD Graphics 600,Windows 11 Home S,1.399
+ASUS,"15.6"", 1920 x 1080px, 144Hz",AMD Ryzen 7 6800H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,5.899
+ASUS,"14"", 1920 x 1080px, 60Hz",Intel Celeron N4020,4,128 GB SSD,Intel UHD Graphics 600,Windows 11 Home S,1.399
+DELL,"15.6"", 1920 x 1080px, 60Hz",Intel Core i7-1165G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Professional,4.499
+ASUS,"14"", 1920 x 1080px, 60Hz",Intel Pentium Gold 7505,4,128 GB SSD,Intel UHD Graphics,Windows 11 Home S,2.099
+DELL,"15.6"", 1920 x 1080px, 60Hz",Intel Core i3-1115G4,8,256 GB SSD,Intel UHD Graphics,Windows 11 Professional,2.999
+ASUS,"15.6"", 1920 x 1080px, 60Hz",Intel Core i3-1005G1,8,256 GB SSD,Intel UHD Graphics,Brak,2.399
+HP,"16.1"", 1920 x 1080px, 144Hz",AMD Ryzen 7 5800H,16,1000 GB SSD,AMD Radeon RX 6600M,Brak,6.399
+HP,"16.1"", 1920 x 1080px, 60Hz",Intel Core i5-11400,8,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 11 Home,4.999
+HP,"16.1"", 2560 x 1440px, 165Hz",AMD Ryzen 7 5800H,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Brak,6.299
+HP,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1035G1,8,256 GB SSD,Intel UHD Graphics,Brak,2.899
+ASUS,"14"", 2560 x 1600px, 60Hz",Intel Core i5-11300H,16,512 GB SSD,NVIDIA GeForce GTX 1650,Windows 11 Home,4.399
+ASUS,"14"", 1920 x 1080px, 60Hz",Intel Celeron N4020,4,128 GB SSD,Intel UHD Graphics 600,Windows 11 Home S,1.449
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5500U,8,512 GB SSD,AMD Radeon Graphics,Windows 11 Professional,3.299
+ASUS,"14"", 1920 x 1080px, 60Hz",Intel Pentium Gold 7505,4,256 GB SSD,Intel UHD Graphics,Windows 11 Home,2.299
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5500U,8,512 GB SSD,AMD Radeon Graphics,Windows 11 Home,3.169
+PRESTIGIO,"14.1"", 1366 x 768px, 60Hz",Intel Celeron N3350,4,128 GB Flash,Intel HD Graphics 500,Windows 10 Home,1.599
+HP,"17.3"", 1920 x 1080px, 144Hz",Intel Core i5-11300H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Brak,4.999
+ACER,"15.6"", 1920 x 1080px, 144Hz",AMD Ryzen 7 5800H,16,1000 GB SSD,NVIDIA GeForce RTX 3080,Windows 11 Home,9.434
+HP,"17.3"", 1920 x 1080px, 144Hz",Intel Core i7-11370H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Brak,5.499
+LENOVO,"15.6"", 1920 x 1080px, 120Hz",AMD Ryzen 5 5600H,16,1000 GB SSD,NVIDIA GeForce RTX 3050,Brak,4.499
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5500U,8,256 GB SSD,AMD Radeon Graphics,Windows 11 Professional,3.299
+LENOVO,"15.6"", 1920 x 1080px, 165Hz",AMD Ryzen 5 5600H,8,512 GB SSD,NVIDIA GeForce RTX 3050,Brak,4.504
+LENOVO,"15.6"", 1920 x 1080px, 165Hz",AMD Ryzen 5 5600H,16,1000 GB SSD,NVIDIA GeForce RTX 3070,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),7.899
+LENOVO,"15.6"", 1920 x 1080px, 165Hz",AMD Ryzen 5 5600H,8,512 GB SSD,NVIDIA GeForce GTX 1650,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.144
+LENOVO,"15.6"", 1920 x 1080px, 165Hz",AMD Ryzen 5 5600H,8,512 GB SSD,NVIDIA GeForce GTX 1650,Brak,4.499
+LENOVO,"15.6"", 1920 x 1080px, 120Hz",AMD Ryzen 5 5600H,8,512 GB SSD,NVIDIA GeForce GTX 1650,Windows 10 Home,3.599
+LENOVO,"15.6"", 2560 x 1440px, 165Hz",AMD Ryzen 5 5600H,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Brak,5.999
+LENOVO,"15.6"", 1920 x 1080px, 165Hz",AMD Ryzen 5 5600H,8,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Home,4.324
+LENOVO,"17.3"", 1920 x 1080px, 144Hz",AMD Ryzen 5 5600H,8,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,5.199
+ASUS,"11.6"", 1366 x 768px, 60Hz",Intel Celeron N4020,4,128 GB Flash,Intel UHD Graphics 600,Windows 11 Home S,1.299
+LENOVO,"15.6"", 1920 x 1080px, 120Hz",AMD Ryzen 7 5800H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Brak,4.864
+MSI,"17.3"", 2560 x 1440px, 240Hz",Intel Core i7-12700H,32,2000 GB SSD,NVIDIA GeForce RTX 3070 Ti,Windows 11 Home,14.499
+LENOVO,"17.3"", 1600 x 900px, 60Hz",AMD Ryzen 5 3500U,8,512 GB SSD,AMD Radeon Vega 8,Windows 11 Home,2.299
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5600H,16,512 GB SSD,NVIDIA GeForce GTX 1650,Brak,3.299
+LENOVO,"16"", 2560 x 1600px, 60Hz",Intel Core i5-11300H,16,1000 GB SSD,NVIDIA GeForce MX450,Windows 11 Home,4.499
+LENOVO,"16"", 2560 x 1600px, 120Hz",AMD Ryzen 5 5600H,16,512 GB SSD,NVIDIA GeForce GTX 1650,Windows 11 Home,4.849
+LENOVO,"16"", 2560 x 1600px, 120Hz",AMD Ryzen 7 5800H,16,1000 GB SSD,NVIDIA GeForce GTX 1650,Windows 11 Home,5.149
+ASUS,"15.6"", 1920 x 1080px, 144Hz",AMD Ryzen 7 6800H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,6.099
+HP,"16.1"", 1920 x 1080px, 144Hz",AMD Ryzen 7 5800H,16,1000 GB SSD,AMD Radeon RX 6600M,Windows 10 Home,6.999
+DELL,"14"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Professional,3.742
+MSI,"17.3"", 2560 x 1440px, 240Hz",32,2000 GB SSD,NVIDIA GeForce RTX 3070 Ti,Windows 11 Home,2.5 - 5.0,15.799
+ASUS,"15.6"", 2560 x 1440px, 165Hz",AMD Ryzen 9 5980HX,16,512 GB SSD,AMD Radeon RX 6800M,Windows 11 Home,8.599
+ASUS,"17.3"", 1920 x 1080px, 144Hz",AMD Ryzen 7 6800H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 11 Home,5.599
+MSI,"15.6"", 2560 x 1440px, 240Hz",Intel Core i7-12700H,32,1000 GB SSD,NVIDIA GeForce RTX 3080,Windows 11 Home,12.799
+HP,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,256 GB SSD,Intel Iris Xe Graphics,Windows 10 Professional,3.817
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5500U,8,512 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.799
+DELL,"13.3"", 1920 x 1080px, Ekran dotykowy, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Professional,5.599
+ACER,"1920 x 1080px, 60Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3050 Ti,Intel Core i7-11800H,8.369
+LENOVO,"15.6"", 1920 x 1080px, 165Hz",Intel Core i5-11400H,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Windows 11 Home,6.304
+DELL,"14"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5500U,8,512 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.299
+DELL,"15.6"", 1920 x 1080px, 360Hz",Intel Core i7-11800H,32,512 GB SSD,NVIDIA GeForce RTX 3080,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),14.999
+DREAMMACHINES,"15.6"", 2560 x 1440px, 165Hz",AMD Ryzen 9 5900HX,16,1000 GB SSD,NVIDIA GeForce RTX 3070,Brak,9.229
+ACER,"16"", 3072 x 1920px, 60Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Windows 10 Professional,9.869
+DELL,"15.6"", 2560 x 1440px, 240Hz",Intel Core i7-11800H,32,1000 GB SSD,NVIDIA GeForce RTX 3080,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),15.499
+LENOVO,"17.3"", 1920 x 1080px, 144Hz",AMD Ryzen 5 5600H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.899
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5600H,8,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Brak,3.899
+LENOVO,"15.6"", 1920 x 1080px, 120Hz",AMD Ryzen 7 4800H,16,512 GB SSD,NVIDIA GeForce GTX 1650 Ti,Brak,8.0
+MSI,"15.6"", 1920 x 1080px, 240Hz",AMD Ryzen 9 5900H,16,1000 GB SSD,AMD Radeon RX 6700M,Windows 11 Home,7.899
+MSI,"15.6"", 1920 x 1080px, 240Hz",AMD Ryzen 7 5800H,16,1000 GB SSD,AMD Radeon RX 6700M,Windows 11 Home,7.099
+ACER,"16"", 3072 x 1920px, 60Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA RTX A3000,Windows 10 Professional,11.149
+ACER,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),5.849
+HP,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,256 GB SSD,Intel Iris Xe Graphics,Windows 10 Professional,3.14
+MSI,"16"", 2560 x 1600px, Ekran dotykowy, 120Hz",Intel Core i9-11900H,16,1000 GB SSD,NVIDIA GeForce RTX 3060 Max-Q,Windows 10 Professional,11.599
+MSI,"16"", 2560 x 1600px, 60Hz",Intel Core i7-11800H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,7.099
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5600U,8,256 GB SSD,AMD Radeon Graphics,Windows 10 Professional,3.94
+ACER,"14"", 1920 x 1080px, 60Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce GTX 1650,Windows 11 Professional,7.849
+MSI,"14"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,NVIDIA GeForce GTX 1650 Max-Q,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.809
+ACER,"15.6"", 2560 x 1440px, 165Hz",Intel Core i7-11800H,16,2000 GB SSD,NVIDIA GeForce RTX 3080,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),12.169
+ASUS,"14"", 1920 x 1080px, 144Hz",AMD Ryzen 7 5800HS,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),5.499
+ASUS,"14"", 1920 x 1080px, 144Hz",AMD Ryzen 7 5800HS,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),5.899
+LENOVO,"15.6"", 1920 x 1080px, 120Hz",AMD Ryzen 7 5800H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Brak,4.899
+LG ELECTRONICS POLSKA SP. Z O.O.,"16"", 2560 x 1600px, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,5.099
+ACER,"17.3"", 1920 x 1080px, 144Hz",Intel Core i5-10300H,8,512 GB SSD,NVIDIA GeForce RTX 3060,Brak,4.999
+DELL,"13.3"", 2560 x 1440px, 60Hz",Intel Core i5-11320H,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,4.499
+DELL,"13.3"", 1920 x 1200px, 60Hz",Intel Core i5-11320H,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Professional,4.699
+LG ELECTRONICS POLSKA SP. Z O.O.,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,5.299
+HP,"13.3"", 1920 x 1080px, 60Hz",Intel Core i7-1165G7,16,1000 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),5.899
+DELL,"13.3"", 2560 x 1440px, 60Hz",Intel Core i7-11390H,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,4.699
+DELL,"14"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,NVIDIA GeForce MX330,Windows 11 Home,4.299
+LG ELECTRONICS POLSKA SP. Z O.O.,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,4.999
+DELL,"14"", 1920 x 1080px, Ekran dotykowy, 60Hz",Intel Core i5-1155G7,8,512 GB SSD,NVIDIA GeForce MX350,Windows 11 Home,4.599
+MSI,"13.4"", 1920 x 1200px, Ekran dotykowy, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),4.999
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5600U,8,256 GB SSD,AMD Radeon Graphics,Windows 10 Professional,4.399
+DELL,"15.6"", 1920 x 1080px, 120Hz",AMD Ryzen 5 5600H,8,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Professional,4.999
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i5-11400H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Linux,4.799
+DELL,"15.6"", 1920 x 1080px, 165Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Linux,6.999
+DELL,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5500U,8,512 GB SSD,AMD Radeon Graphics,Windows 11 Professional,3.599
+DELL,"14"", 1920 x 1080px, 60Hz",Intel Core i7-1165G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.099
+APPLE,"13.3"", 2560 x 1600px, 60Hz",Apple M1,8,1000 GB SSD,Apple M1 (8 rdzeni),macOS Big Sur,8.699
+DELL,"14"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,NVIDIA GeForce MX330,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.699
+HP,"13.3"", 1920 x 1080px, 60Hz",Intel Core i7-1165G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.599
+DELL,"13.3"", 1920 x 1080px, 60Hz",Intel Core i7-10510U,16,1000 GB SSD,Intel UHD Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),7.499
+DELL,"14"", 1920 x 1080px, 60Hz",Intel Core i7-1195G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,4.899
+DELL,"15.6"", 1920 x 1080px, 120Hz",AMD Ryzen 5 5600H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Professional,5.199
+MSI,"15.6"", 1920 x 1080px, Ekran dotykowy, 60Hz",Intel Core i7-10750H,16,512 GB SSD,NVIDIA GeForce GTX 1660 Ti Max-Q,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),5.999
+ASUS,"13.4"", 3840 x 2400px, Ekran dotykowy, 60Hz",AMD Ryzen 9 5900HS,16,512 GB SSD,"NVIDIA GeForce RTX 3050 Ti,
+    
+      NVIDIA GeForce RTX 3080",Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),12.699
+APPLE,"13.3"", 2560 x 1600px, 60Hz",Apple M1,16,2000 GB SSD,Apple M1 (8 rdzeni),macOS Big Sur,11.799
+MSI,"15.6"", 1920 x 1080px, Ekran dotykowy, 60Hz",Intel Core i7-1185G7,16,1000 GB SSD,NVIDIA GeForce GTX 1650 Ti Max-Q,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),6.999
+ASUS,"14"", 2560 x 1440px, 60Hz",AMD Ryzen 9 4900HS,16,1000 GB SSD,NVIDIA GeForce GTX 1660 Ti Max-Q,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),6.999
+ACER,"15.6"", 1920 x 1080px, 60Hz",Intel Core i7-10750H,16,512 GB SSD,NVIDIA Quadro T1000,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),7.499
+APPLE,"13.3"", 2560 x 1600px, 60Hz",Apple M1,8,1000 GB SSD,Apple M1 (8 rdzeni),macOS Big Sur,8.699
+LENOVO,"14"", 1920 x 1080px, 60Hz",Intel Core i7-1065G7,8,1000 GB SSD,Intel Iris Plus Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.999
+MICROSOFT,"13.5"", 2256 x 1504px, Ekran dotykowy, 60Hz",Intel Core i5-1145G7,8,512 GB SSD,Intel Iris Plus Graphics 950,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),6.699
+LENOVO,"14"", 1920 x 1080px, 60Hz",Intel Core i7-1065G7,8,512 GB SSD,Intel Iris Plus Graphics,Brak,3.299
+DELL,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-10400H,8,256 GB SSD,Intel UHD Graphics,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),5.399
+HP,"13.3"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.199
+ASUS,"14"", 1920 x 1080px, 144Hz",AMD Ryzen 7 5800HS,16,512 GB SSD,NVIDIA GeForce RTX 3060,Brak,7.099
+ASUS,"13.3"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.719
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 7 4800H,16,512 GB SSD,NVIDIA GeForce GTX 1650 Ti,Brak,3.849
+LECHPOL Zbigniew Leszek,"14.1"", 1920 x 1080px, 60Hz",Intel Celeron N4000,4,64 GB Flash,Intel HD Graphics 6000,Windows 10 Professional,983.0
+HIRO,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-10300H,8,512 GB SSD,NVIDIA GeForce GTX 1650 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.999
+LENOVO,"15.6"", 1920 x 1080px",AMD Ryzen 5 3500U,8,256 GB SSD,AMD Radeon Vega 8,Windows 10 Professional,3.599
+DELL,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,256 GB SSD,Intel Iris Xe Graphics,Windows 10 Professional,3.799
+HP,"15.6"", 1920 x 1080px, 60Hz",Intel Core i3-1115G4,8,256 GB SSD,Intel UHD Graphics,Windows 11 Home,2.499
+DELL,"13.3"", 1920 x 1080px",Intel Core i7-10710U,16,512 GB SSD,Intel UHD Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),6.999
+DYNABOOK,"15.6"", 1920 x 1080px",Intel Core i5-8265U,8,256 GB SSD,Intel UHD Graphics 620,Windows 10 Professional,7.199
+HP,"15.6"", 1920 x 1080px, 240Hz",Intel Core i7-9750H,16,1000 GB SSD,NVIDIA GeForce RTX 2070 Max-Q,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),12.499
+DYNABOOK,"13.3"", 1920 x 1080px",Intel Core i3-8130U,8,256 GB SSD,Intel UHD Graphics 620,Windows 10 Professional,3.799
+DELL,"15.6"", 1920 x 1080px",Intel Core i7-10750H,16,1000 GB SSD,NVIDIA GeForce RTX 2070 Max-Q,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),8.499
+DELL,"13.4"", 1920 x 1200px",Intel Core i7-1065G7,16,1000 GB SSD,Intel Iris Plus Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),8.999
+DELL,"13.4"", 1920 x 1200px",Intel Core i5-1035G1,8,512 GB SSD,Intel Iris Plus Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),7.344
+DELL,"13.3"", 3840 x 2160px, Ekran dotykowy",Intel Core i7-10710U,16,1000 GB SSD,Intel UHD Graphics 630,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),7.697
+HIRO,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-10300H,8,512 GB SSD,NVIDIA GeForce GTX 1650,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.599
+DYNABOOK,"14"", 1920 x 1080px, Dotykowy",Intel Core i7-8565U,8,512 GB SSD,Intel UHD Graphics 620,Windows 10 Professional,7.399
+ASUS,"14"", 1920 x 1080px, 120Hz",AMD Ryzen 7 4800HS,16,512 GB SSD,NVIDIA GeForce GTX 1660 Ti Max-Q,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),5.899
+DELL,"14"", 1920 x 1080px, 60Hz",Intel Core i5-10210U,8,256 GB SSD,Intel UHD Graphics,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),4.999
+DYNABOOK,"14"", 1920 x 1080px, Dotykowy",Intel Core i7-8550U,8,256 GB SSD,Intel UHD Graphics 620,Windows 10 Professional,6.559
+DELL,"14"", 1920 x 1080px, 60Hz",Intel Core i7-10510U,8,256 GB SSD,Intel UHD Graphics 620,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),4.899
+HP,"15.6"", 1920 x 1080px, 240Hz",Intel Core i7-9750H,16,1000 GB SSD,NVIDIA GeForce RTX 2080 Max-Q,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),14.499
+DELL,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 4600H,8,512 GB SSD,AMD Radeon RX 5600M,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.899
+DELL,"14"", 1920 x 1080px",AMD Ryzen 7 4700U,8,512 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.299
+DELL,"14"", 1920 x 1080px",Intel Core i5-10210U,8,256 GB SSD,Intel UHD Graphics 620,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),5.599
+LENOVO,"15.6"", 1920 x 1080px, 120Hz",AMD Ryzen 7 4800H,8,256 GB SSD,NVIDIA GeForce GTX 1650,Brak,3.499
+DREAMMACHINES,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-11800H,16,500 GB SSD,NVIDIA GeForce RTX 3050 Ti,Brak,4.819
+DREAMMACHINES,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,500 GB SSD,NVIDIA GeForce RTX 3050 Ti,Brak,4.309
+DREAMMACHINES,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3050 Ti,Brak,5.029
+LENOVO,"14"", 1920 x 1080px, 60Hz",Intel Core i3-1115G4,8,256 GB SSD,Intel UHD Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.399
+DELL,"13.3"", 1920 x 1080px, 60Hz",Intel Core i5-10210U,8,256 GB SSD,Intel UHD Graphics,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),5.049
+DREAMMACHINES,"15.6"", 1920 x 1080px, 144Hz",AMD Ryzen 7 3700X,16,1000 GB SSD,NVIDIA GeForce RTX 3070,Brak,7.999
+DREAMMACHINES,"15.6"", 1920 x 1080px, 144Hz",AMD Ryzen 9 3900,16,1000 GB SSD,NVIDIA GeForce RTX 3070,Brak,8.929
+DELL,"15.6"", 1920 x 1080px, 360Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3070,Windows 11 Home,14.499
+DREAMMACHINES,"15.6"", 1920 x 1080px, 144Hz",AMD Ryzen 9 3900,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Brak,7.899
+DREAMMACHINES,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,8,500 GB SSD,NVIDIA GeForce GTX 1650,Brak,3.699
+DREAMMACHINES,"17.3"", 1920 x 1080px, 144Hz",AMD Ryzen 7 5800H,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Brak,6.399
+DREAMMACHINES,"17.3"", 1920 x 1080px, 144Hz",Intel Core i7-11800H,16,500 GB SSD,NVIDIA GeForce GTX 1650,Brak,5.349
+DREAMMACHINES,"15.6"", 1920 x 1080px, 144Hz",AMD Ryzen 7 5800H,16,500 GB SSD,NVIDIA GeForce RTX 3050 Ti,Brak,5.129
+DREAMMACHINES,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,1000 GB SSD,NVIDIA GeForce GTX 1650,Brak,3.999
+DREAMMACHINES,"15.6"", 1920 x 1080px, 144Hz",AMD Ryzen 7 3700X,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Brak,6.669
+DREAMMACHINES,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,500 GB SSD,NVIDIA GeForce GTX 1650,Brak,3.799
+DREAMMACHINES,"17.3"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,1000 GB SSD,NVIDIA GeForce RTX 3050 Ti,Brak,5.799
+MICROSOFT,"13"", 2880 x 1920px, Ekran dotykowy, 60Hz",Microsoft SQ2,16,512 GB SSD,Adreno 687,Windows 11 Home,7.632
+DREAMMACHINES,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,500 GB SSD,NVIDIA GeForce RTX 3060,Brak,6.199
+DREAMMACHINES,"15.6"", 1920 x 1080px, 144Hz",AMD Ryzen 5 5600X,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Brak,8.099
+DREAMMACHINES,"17.3"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,500 GB SSD,NVIDIA GeForce RTX 3050 Ti,Brak,5.549
+DREAMMACHINES,"17.3"", 1920 x 1080px, 144Hz",AMD Ryzen 7 5800H,16,500 GB SSD,NVIDIA GeForce RTX 3060,Brak,6.149
+DREAMMACHINES,"15.6"", 3840 x 2160px, 60Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3070,Brak,8.569
+ACER,"14"", 1920 x 1080px, 144Hz",Intel Core i5-11300H,16,512 GB SSD,NVIDIA GeForce RTX 3060,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.999
+HUAWEI,"14"", 2160 x 1440px, 60Hz",AMD Ryzen 5 5500U,16,512 GB SSD,AMD Radeon Graphics,Windows 11 Home,4.473
+ASUS,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-11370H,16,512 GB SSD,NVIDIA GeForce RTX 3060,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.999
+ASUS,"15.6"", 1920 x 1080px",AMD Ryzen 5 3550H,8,512 GB SSD,NVIDIA GeForce GTX 1650,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.399
+DREAMMACHINES,"17.3"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,1000 GB SSD,NVIDIA GeForce GTX 1650,Brak,5.199
+ASUS,"14"", 1920 x 1080px, 60Hz",Intel Core i3-1005G1,8,256 GB SSD,Intel UHD Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),1.799
+ACER,"14"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.999
+ACER,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-10750H,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),6.199
+ASUS,"15.6"", 1920 x 1080px",Intel Core i5-1035G1,8,512 GB SSD,Intel UHD Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.699
+HP,"15.6"", 1920 x 1080px",Intel Core i5-1035G1,8,512 GB SSD,Intel UHD Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.999
+ASUS,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1035G1,16,512 GB SSD,Intel UHD Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.999
+APPLE,"13.3"", 2560 x 1600px",Apple M1,8,256 GB SSD,Apple M1 (7 rdzeni),macOS Big Sur,4.549
+LENOVO,"14"", 1920 x 1080px, 60Hz",AMD Ryzen 7 4800U,16,512 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.799
+ACER,"15.6"", 1920 x 1080px",Intel Core i3-1005G1,4,256 GB SSD,Intel UHD Graphics,Windows 10 S (możliwość darmowej aktualizacji do Windows 11),1.999
+APPLE,"13.3"", 2560 x 1600px",Apple M1,8,256 GB SSD,Apple M1 (7 rdzeni),macOS Big Sur,4.599
+ASUS,"15.6"", 1920 x 1080px",Intel Core i5-1035G1,8,512 GB SSD,Intel UHD Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.099
+ACER,"15.6"", 1920 x 1080px",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.899
+ACER,"14"", 1366 x 768px",Intel Celeron N4020,4,128 GB Flash,Intel UHD Graphics 600,Windows 10 S (możliwość darmowej aktualizacji do Windows 11),1.399
+APPLE,"13.3"", 1440 x 900px, 60Hz",Intel Core i5-5350U,8,128 GB SSD,Intel HD Graphics 6000,macOS Sierra,3.789
+ACER,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-10300H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,3.599
+HP,"15.6"", 1920 x 1080px",Intel Core i3-10110U,8,256 GB SSD,Intel UHD Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.299
+HUAWEI,"15.6"", 1920 x 1080px, 60Hz",Intel Core i3-10110U,8,256 GB SSD,Intel UHD Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.199
+ASUS,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 3500U,8,512 GB SSD,AMD Radeon Vega 8,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.699
+LENOVO,"14"", 1920 x 1080px, 60Hz",Intel Core i3-1005G1,8,256 GB SSD,Intel UHD Graphics,Windows 10 S (możliwość darmowej aktualizacji do Windows 11),2.199
+LENOVO,"14"", 1920 x 1080px, Ekran dotykowy, 60Hz",AMD Athlon 300U,4,128 GB SSD,AMD Radeon Vega 3,Windows 10 Home,1.759
+ASUS,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,3.599
+DELL,"15.6"", 1920 x 1080px",Intel Core i5-10300H,8,1000 GB SSD,NVIDIA GeForce GTX 1650 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.499
+APPLE,"13.3"", 2560 x 1600px",Apple M1,8,256 GB SSD,Apple M1 (7 rdzeni),macOS Big Sur,4.549
+LENOVO,"14"", 1920 x 1080px, 60Hz",Intel Pentium N5000,4,128 GB SSD,Intel UHD Graphics 605,Windows 10 S,1.279
+APPLE,"13.3"", 2560 x 1600px",Intel Core i5-1038NG7,16,512 GB SSD,Intel Iris Plus Graphics,macOS Catalina,8.548
+ACER,"14"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,3.499
+LENOVO,"14"", 1920 x 1080px",Intel Core i5-1035G1,8,256 GB SSD,Intel UHD Graphics,Windows 10 Home,2.369
+APPLE,"13.3"", 2560 x 1600px",Apple M1,8,256 GB SSD,Apple M1 (8 rdzeni),macOS Big Sur,5.839
+LENOVO,"15.6"", 1920 x 1080px, 120Hz",Intel Core i5-10300H,8,512 GB SSD,NVIDIA GeForce GTX 1650,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.899
+DELL,"15.6"", 1920 x 1080px, 60Hz",Intel Core i3-1005G1,8,256 GB SSD,Intel UHD Graphics,Windows 10 S (możliwość darmowej aktualizacji do Windows 11),2.649
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5500U,8,512 GB SSD,AMD Radeon Graphics,Windows 11 Home,2.649
+ASUS,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.899
+ASUS,"15.6"", 1920 x 1080px, 144Hz",AMD Ryzen 7 4800H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.499
+ASUS,"14"", 1920 x 1080px",AMD Ryzen 5 3500U,8,512 GB SSD,AMD Radeon Vega 8,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.079
+DELL,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5500U,8,512 GB SSD,AMD Radeon Graphics,Windows 10 Home,2.999
+LENOVO,"14"", 1920 x 1080px",AMD 3020e,4,128 GB SSD,AMD Radeon Graphics,Windows 10 S (możliwość darmowej aktualizacji do Windows 11),1.599
+ACER,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-10750H,16,1000 GB SSD,NVIDIA GeForce RTX 3070,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),7.499
+ASUS,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-10300H,8,512 GB SSD,NVIDIA GeForce GTX 1650,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.399
+ASUS,"14"", 1920 x 1080px",Intel Core i5-10210U,8,512 GB SSD,Intel UHD Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.679
+KIANO,"10.1"", 1280 x 800px, Dotykowy",Intel Atom x5-Z8350,4,32 GB Flash,Intel HD Graphics 400,Windows 10 Home,539.0
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 7 5800H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Home,4.699
+ACER,"15.6"", 1920 x 1080px",Intel Core i5-10300H,16,512 GB SSD,NVIDIA GeForce GTX 1650,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.999
+DELL,"15.6"", 1920 x 1080px, 60Hz",Intel Core i3-1005G1,8,256 GB SSD,Intel UHD Graphics,Windows 10 S (możliwość darmowej aktualizacji do Windows 11),2.199
+ASUS,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.999
+LENOVO,"14"", 1920 x 1080px, 60Hz",AMD Ryzen 5 4500U,16,512 GB SSD,AMD Radeon Graphics,Windows 10 Home,2.599
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 7 4800H,8,512 GB SSD,NVIDIA GeForce GTX 1650 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.999
+ASUS,"14"", 1920 x 1080px, 60Hz",Intel Pentium Silver N5030,8,256 GB SSD,Intel UHD Graphics 605,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),1.799
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i5-10200H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.299
+LENOVO,"17.3"", 1920 x 1080px, 144Hz",AMD Ryzen 5 5600H,16,512 GB SSD,NVIDIA GeForce RTX 3060,Windows 10 Home,6.199
+ACER,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,512 GB SSD,NVIDIA GeForce RTX 3060,Windows 11 Home,5.299
+ACER,"14"", 1920 x 1080px, 60Hz",Intel Core i5-8265U,8,512 GB SSD,Intel UHD Graphics 620,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),3.589
+HP,"16.1"", 1920 x 1080px",Intel Core i5-10300H,8,512 GB SSD,NVIDIA GeForce GTX 1650,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.419
+ACER,"15.6"", 1920 x 1080px, 144Hz",AMD Ryzen 5 5600H,16,512 GB SSD,NVIDIA GeForce RTX 3060,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),5.799
+ACER,"15.6"", 1920 x 1080px, 120Hz",Intel Core i5-10300H,16,512 GB SSD,NVIDIA GeForce GTX 1660 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.949
+HUAWEI,"14"", 2160 x 1440px",AMD Ryzen 5 4600H,16,512 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.899
+DELL,"15.6"", 1366 x 768px",Intel Pentium N5000,4,1000 GB HDD,Intel UHD Graphics 605,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),1.799
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 4600H,8,512 GB SSD,NVIDIA GeForce GTX 1650 Ti,Brak,3.299
+HP,"14"", 1366 x 768px",AMD A4-9120e,4,64 GB Flash,AMD Radeon R3,Windows 10 S (możliwość darmowej aktualizacji do Windows 11),1.499
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i5-11260H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 11 Home,4.499
+HUAWEI,"16.1"", 1920 x 1080px, 60Hz",AMD Ryzen 5 4600H,16,512 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.999
+APPLE,"13.3"", 2560 x 1600px, 60Hz",Apple M1,16,256 GB SSD,Apple M1 (7 rdzeni),macOS Big Sur,5.699
+LENOVO,"17.3"", 1600 x 900px, 120Hz",AMD Athlon Silver 3050U,8,256 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.099
+LENOVO,"15.6"", 1920 x 1080px",Intel Core i5-10210U,8,512 (256+256) GB SSD,Intel UHD Graphics,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),2.949
+LENOVO,"15.6"", 1920 x 1080px",Intel Core i5-1035G1,8,512 GB SSD,Intel UHD Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.799
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-11300H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Brak,3.799
+ASUS,"14"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.899
+ASUS,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Brak,3.799
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-11300H,8,512 GB SSD,NVIDIA GeForce GTX 1650,Windows 11 Home,3.499
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-11300H,8,512 GB SSD,NVIDIA GeForce GTX 1650,Brak,3.099
+LENOVO,"14"", 1920 x 1080px, 60Hz",Intel Core i7-1065G7,16,1000 GB SSD,Intel Iris Plus Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.533
+HUAWEI,"14"", 2160 x 1440px, 60Hz",AMD Ryzen 5 4600H,8,512 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.999
+APPLE,"16.2"", 3456 x 2234px, 120Hz",Apple M1 Pro,16,1000 GB SSD,Apple M1 Pro (16 rdzeni),macOS Monterey,14.013
+ASUS,"15.6"", 1920 x 1080px, 60Hz",Intel Core i3-1115G4,8,512 GB SSD,Intel UHD Graphics,Windows 10 Home,2.499
+ASUS,"14"", 1920 x 1080px, 60Hz",Intel Celeron N4020,4,128 GB Flash,Intel UHD Graphics 600,Windows 10 S (możliwość darmowej aktualizacji do Windows 11),1.299
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1155G7,16,1000 GB SSD,Intel Iris Xe Graphics,Brak,3.099
+DELL,"15.6"", 1920 x 1080px, 60Hz",Intel Core i3-1005G1,4,256 GB SSD,Intel UHD Graphics,Windows 10 S (możliwość darmowej aktualizacji do Windows 11),1.799
+LENOVO,"14.1"", 1920 x 1080px",Intel Core i5-1035G4,16,512 GB SSD,Intel UHD Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.899
+DELL,"13.3"", 3840 x 2160px, Ekran dotykowy, 60Hz",Intel Core i7-1165G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.599
+ACER,"17.3"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),5.999
+LENOVO,"17.3"", 1600 x 900px, 60Hz",Intel Core i3-1115G4,8,256 GB SSD,Intel UHD Graphics,Windows 10 Home,2.199
+HP,"16.1"", 1920 x 1080px, 144Hz",Intel Core i7-11800H,32,1000 GB SSD,NVIDIA GeForce RTX 3070,Windows 10 Home,9.199
+LENOVO,"14"", 1920 x 1080px",AMD A6-9220e,4,256 GB SSD,AMD Radeon R4,Windows 10 S,2.099
+LENOVO,"15.6"", 1920 x 1080px, 120Hz",AMD Ryzen 5 5600H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Brak,4.199
+ACER,"15.6"", 1920 x 1080px",Intel Core i5-10300H,8,512 GB SSD,NVIDIA GeForce RTX 2060,Brak,4.399
+LENOVO,"15.6"", 1920 x 1080px, 120Hz",AMD Ryzen 7 4800H,8,512 GB SSD,NVIDIA GeForce GTX 1650 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.549
+LENOVO,"14"", 1920 x 1080px",Intel Core i5-1035G1,8,256 GB SSD,Intel UHD Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.399
+LENOVO,"17.3"", 1920 x 1080px, 144Hz",AMD Ryzen 7 5800H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),5.399
+ACER,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-10300H,8,512 GB SSD,NVIDIA GeForce GTX 1650 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.799
+HP,"15.6"", 1920 x 1080px, Ekran dotykowy, 60Hz",AMD Ryzen 5 4500U,16,512 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.949
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5600H,16,512 GB SSD,NVIDIA GeForce GTX 1650,Brak,3.999
+LENOVO,"15.6"", 1920 x 1080px, 120Hz",AMD Ryzen 7 4800H,16,512 GB SSD,NVIDIA GeForce GTX 1650 Ti,Brak,4.699
+HP,"16.1"", 1920 x 1080px, 144Hz",AMD Ryzen 7 5800H,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Brak,5.699
+ASUS,"13.4"", 1920 x 1200px, Ekran dotykowy, 120Hz",AMD Ryzen 7 5800HS,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),6.999
+ACER,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-10300H,8,512 GB SSD,NVIDIA GeForce GTX 1650,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.799
+DYNABOOK,"14"", 1366 x 768px, 60Hz",Intel Celeron 5205U,4,128 GB SSD,Intel UHD Graphics,Windows 10 Professional,1.899
+ACER,"14"", 1366 x 768px, 60Hz",Intel Celeron N4020,4,256 GB SSD,Intel UHD Graphics 600,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),1.599
+MSI,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,8,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.999
+APPLE,"16.2"", 3456 x 2234px, 120Hz",Apple M1 Max,32,1000 GB SSD,Apple M1 Max (32 rdzenie),macOS Monterey,18.299
+LENOVO,"17.3"", 1920 x 1080px, 144Hz",AMD Ryzen 5 5600H,8,512 GB SSD,NVIDIA GeForce RTX 3050,Brak,4.299
+ASUS,"15.6"", 2560 x 1440px, 165Hz",AMD Ryzen 9 5900HX,16,512 GB SSD,AMD Radeon RX 6800M,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),7.999
+LENOVO,"17.3"", 1920 x 1080px, 144Hz",AMD Ryzen 7 5800H,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Brak,6.399
+DELL,"13.3"", 1920 x 1080px, Ekran dotykowy, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.499
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",Intel Core i3-1115G4,8,512 GB SSD,Intel UHD Graphics,Windows 11 Home S,2.399
+LENOVO,"15.6"", 1920 x 1080px, 120Hz",AMD Ryzen 5 4600H,8,512 GB SSD,NVIDIA GeForce GTX 1650 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.999
+APPLE,"13.3"", 2560 x 1600px, 60Hz",Apple M1,8,256 GB SSD,Apple M1 (7 rdzeni),macOS Big Sur,4.799
+DELL,"16"", 3072 x 1920px, 60Hz",Intel Core i5-11400H,8,512 GB SSD,Intel UHD Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),5.099
+HP,"15.6"", 1920 x 1080px, 60Hz",Intel Core i3-1115G4,8,256 GB SSD,Intel Iris Xe Graphics,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),2.899
+ASUS,"14"", 1920 x 1080px, 144Hz",AMD Ryzen 7 5800HS,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.999
+MICROSOFT,"10.5"", 1920 x 1280px, Ekran dotykowy, 60Hz",Intel Pentium Gold 6500Y,8,128 GB SSD,Intel UHD Graphics 615,Windows 11 Home S,3.199
+ACER,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),6.599
+DELL,"13.3"", 3840 x 2160px, 60Hz",Intel Core i7-1165G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Professional,8.999
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5500U,8,512 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.899
+LENOVO,"17.3"", 1600 x 900px, 60Hz",AMD Ryzen 5 5500U,8,256 GB SSD,AMD Radeon Graphics,Windows 10 Home,2.599
+DELL,"14"", 1920 x 1080px, Ekran dotykowy, 60Hz",Intel Core i7-1195G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Professional,5.499
+HP,"15.6"", 1920 x 1080px, Ekran dotykowy, 60Hz",Intel Core i5-1135G7,16,1000 GB SSD,NVIDIA GeForce MX450,Windows 10 Home,5.999
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-10210U,8,256 GB SSD,Intel UHD Graphics,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),2.799
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 3 5300U,8,256 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.449
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5500U,16,512 GB SSD,AMD Radeon Graphics,Brak,2.799
+LENOVO,"14"", 1920 x 1080px, 60Hz",Intel Core i5-1035G1,8,512 (256+256) GB SSD,Intel UHD Graphics,Windows 10 Home,2.449
+DELL,"13.3"", 1920 x 1080px, Ekran dotykowy, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.199
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i5-10300H,8,512 GB SSD,NVIDIA GeForce GTX 1650 Ti,Linux,2.999
+HP,"14"", 1366 x 768px, 60Hz",AMD Athlon Silver 3050U,4,256 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),1.999
+ACER,"11.6"", 1366 x 768px, Dotykowy",Intel Celeron N4020,4,64 GB SSD,Intel UHD Graphics,Windows 10 S (możliwość darmowej aktualizacji do Windows 11),1.399
+LENOVO,"15.6"", 1920 x 1080px, 120Hz",AMD Ryzen 5 4600H,8,512 GB SSD,NVIDIA GeForce GTX 1650 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.909
+ACER,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,1000 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),5.199
+HP,"14"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5500U,16,512 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.599
+LENOVO,"17.3"", 1600 x 900px",AMD Ryzen 3 3250U,4,256 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.099
+LENOVO,"17.3"", 1600 x 900px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home,2.999
+DELL,"14"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Professional,3.999
+HUAWEI,"14"", 1920 x 1080px",Intel Core i3-10110U,8,256 GB SSD,Intel UHD Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.499
+LENOVO,"14"", 1920 x 1080px, 60Hz",AMD Ryzen 5 4500U,16,512 GB SSD,AMD Radeon Graphics,Brak,2.599
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 3 3250U,4,256 GB SSD,AMD Radeon Graphics,Brak,1.599
+ACER,"15.6"", 1920 x 1080px",Intel Pentium Silver N5030,8,256 GB SSD,Intel UHD Graphics,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),2.099
+DELL,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-10750H,16,1000 GB SSD,NVIDIA GeForce RTX 2070 Max-Q,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),7.699
+DELL,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-10210U,8,256 GB SSD,Intel UHD Graphics,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),4.599
+DELL,"14"", 1920 x 1080px, Ekran dotykowy, 60Hz",Intel Core i5-1135G7,8,256 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.899
+LENOVO,"14"", 1920 x 1080px",AMD Ryzen 5 4500U,16,512 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.699
+ACER,"15.6"", 1920 x 1080px",Intel Core i7-10750H,32,1000 GB SSD,NVIDIA GeForce RTX 2080 Max-Q,Brak,9.299
+LENOVO,"14"", 1920 x 1080px",AMD Ryzen 7 3700U,8,1000 GB SSD,AMD Radeon RX Vega 10,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.399
+LENOVO,"13.3"", 1920 x 1080px, 60Hz",Intel Core i3-10110U,8,256 GB SSD,Intel UHD Graphics,Windows 10 Professional,3.899
+DYNABOOK,"15.6"", 1920 x 1080px, 60Hz",Intel Core i3-1005G1,8,256 GB SSD,Intel UHD Graphics,Brak,1.999
+ASUS,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-11370H,16,512 GB SSD,NVIDIA GeForce RTX 3070,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),6.699
+LENOVO,"15.6"", 1920 x 1080px, 120Hz",AMD Ryzen 7 4800H,8,512 GB SSD,NVIDIA GeForce GTX 1650 Ti,Brak,4.199
+ASUS,"13.3"", 1920 x 1080px, 60Hz",Intel Core i7-1165G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),5.299
+ASUS,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.699
+MSI,"14"", 1920 x 1080px, 60Hz",Intel Core i7-1185G7,16,512 GB SSD,NVIDIA GeForce GTX 1650 Max-Q,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),5.299
+HP,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-10300H,8,512 GB SSD,NVIDIA GeForce GTX 1660 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.399
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 7 4800H,8,512 GB SSD,NVIDIA GeForce GTX 1650 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.149
+ASUS,"14"", 1920 x 1080px, 144Hz",AMD Ryzen 7 5800HS,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),5.499
+HP,"14"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.799
+LENOVO,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-10750H,16,512 GB SSD,NVIDIA GeForce RTX 2070 Super Max-Q,Brak,7.099
+ASUS,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.899
+LG ELECTRONICS POLSKA SP. Z O.O.,"17"", 2560 x 1600px, 60Hz",Intel Core i7-1165G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),6.199
+ACER,"14"", 1920 x 1080px, Ekran dotykowy, 60Hz",Intel Celeron N4500,4,256 GB SSD,Intel UHD Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.849
+ACER,"14"", 1920 x 1080px, Ekran dotykowy, 60Hz",Intel Pentium Silver N6000,8,256 GB SSD,Intel UHD Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.899
+HP,"14"", 1920 x 1080px, 60Hz",AMD 3020e,4,128 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),1.999
+ACER,"14"", 1920 x 1080px, Ekran dotykowy, 60Hz",Intel Celeron N4500,8,256 GB SSD,Intel UHD Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.749
+LENOVO,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-10750H,16,512 GB SSD,NVIDIA GeForce RTX 2070 Super Max-Q,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),7.499
+HUAWEI,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-10210U,16,512 GB SSD,Intel UHD Graphics 620,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.099
+DELL,"14"", 1920 x 1080px",Intel Core i5-1035G1,8,256 GB SSD,Intel UHD Graphics,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),3.999
+DELL,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-10750H,16,512 GB SSD,NVIDIA GeForce RTX 2070 Super,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),12.999
+ASUS,"14"", 1920 x 1080px, 120Hz",AMD Ryzen 7 4800HS,16,1000 GB SSD,NVIDIA GeForce RTX 2060 Max-Q,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),5.799
+DELL,"14"", 1920 x 1080px, Ekran dotykowy, 60Hz",Intel Core i5-1035G1,8,512 GB SSD,Intel UHD Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.099
+DELL,"14"", 1920 x 1080px, Dotykowy",Intel Core i5-1035G1,8,256 GB SSD,Intel UHD Graphics 620,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.879
+HP,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Brak,3.099
+ASUS,"15.6"", 1920 x 1080px, 60Hz",Intel Pentium N3700,4,1000 GB HDD,Intel HD Graphics,Brak,2.199
+LENOVO,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-10750H,16,512 GB SSD,NVIDIA GeForce RTX 2070 Max-Q,Brak,6.099
+LENOVO,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-10750H,8,1000 GB SSD,NVIDIA GeForce GTX 1650,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.699
+ACER,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-10750H,16,512 GB SSD,NVIDIA GeForce RTX 2070 Max-Q,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),7.099
+ASUS,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1035G1,8,512 GB SSD,Intel UHD Graphics,Brak,1.999
+ACER,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-10750H,16,1000 (x2) GB SSD,NVIDIA GeForce RTX 2070 Super Max-Q,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),8.539
+DELL,"14"", 1920 x 1080px, Ekran dotykowy, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,NVIDIA GeForce MX330,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.399
+DELL,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.899
+DELL,"14"", 1920 x 1080px, Ekran dotykowy, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.199
+ACER,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-10300H,8,512 GB SSD,NVIDIA GeForce GTX 1650 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.699
+LENOVO,"14"", 1920 x 1080px, 60Hz",AMD Athlon Silver 3050U,8,512 GB SSD,AMD Radeon Graphics,Brak,1.499
+ASUS,"14"", 1920 x 1080px",AMD Ryzen 3 3250U,4,256 GB SSD,AMD Radeon Graphics,Windows 10 S (możliwość darmowej aktualizacji do Windows 11),1.729
+HP,"16.1"", 1920 x 1080px, 144Hz",Intel Core i5-10300H,8,512 GB SSD,NVIDIA GeForce GTX 1650,Brak,3.899
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 3 3200U,8,256 GB SSD,AMD Radeon Vega 3,Brak,2.499
+HP,"16.1"", 1920 x 1080px, 60Hz",Intel Core i5-10300H,8,512 GB SSD,NVIDIA GeForce GTX 1650,Brak,4.049
+DELL,"13.3"", 3840 x 2160px, Ekran dotykowy, 60Hz",Intel Core i7-1165G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),6.899
+HUAWEI,"13"", 2160 x 1440px, 60Hz",AMD Ryzen 5 3500U,8,512 GB SSD,AMD Radeon Vega 8,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.299
+DELL,"14"", 1920 x 1080px, 60Hz",Intel Core i3-1115G4,4,256 GB SSD,Intel UHD Graphics,Windows 10 S (możliwość darmowej aktualizacji do Windows 11),3.199
+ASUS,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-8265U,8,512 GB SSD,Intel UHD Graphics 620,Windows 10 Home,2.999
+DELL,"15.6"", 1366 x 768px, 60Hz",Intel Pentium Gold 5405U,4,1000 GB HDD,Intel UHD Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),1.299
+DELL,"13.4"", 1920 x 1080px, Ekran dotykowy, 60Hz",Intel Core i7-1065G7,16,512 GB SSD,Intel Iris Plus Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),7.199
+ASUS,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-11370H,16,512 GB SSD,NVIDIA GeForce RTX 3070,Brak,6.599
+LENOVO,"14"", 1920 x 1080px, 60Hz",AMD Ryzen 3 3200U,4,128 GB SSD,AMD Radeon Vega 3,Windows 10 S,2.299
+LENOVO,"14"", 1920 x 1080px, 60Hz",AMD Ryzen 5 4500U,16,512 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.999
+APPLE,"13.3"", 2560 x 1600px",Intel Core i5-1030NG7,8,512 GB SSD,Intel Iris Plus Graphics,macOS Catalina,5.499
+APPLE,"13.3"", 2560 x 1600px",Intel Core i3-1000NG4,8,256 GB SSD,Intel Iris Plus Graphics,macOS Catalina,4.699
+LENOVO,"14"", 1920 x 1080px, 60Hz",Intel Core i5-10210U,8,256 GB SSD,Intel UHD Graphics,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),4.499
+MSI,"17.3"", 1920 x 1080px, 144Hz",Intel Core i5-10300H,8,512 GB SSD,NVIDIA GeForce GTX 1650 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.399
+HUAWEI,"13"", 2160 x 1440px, Dotykowy",Intel Core i7-10510U,16,512 GB SSD,NVIDIA GeForce MX250,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.879
+ACER,"11.6"", 1366 x 768px, Dotykowy",Intel Celeron N4000,4,64 GB Flash,Intel UHD Graphics 600,Windows 10 S (możliwość darmowej aktualizacji do Windows 11),1.219
+MICROSOFT,"10.5"", 1920 x 1280px, Ekran dotykowy",Intel Pentium Gold 4425Y,8,128 GB SSD,Intel UHD Graphics 615,Windows 10 S (możliwość darmowej aktualizacji do Windows 11),2.299
+DELL,"15.6"", 1920 x 1080px",Intel Core i7-10750H,16,1000 GB SSD,NVIDIA GeForce RTX 2060,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),7.899
+ASUS,"14"", 1920 x 1080px, 120Hz",AMD Ryzen 7 4800HS,16,512 GB SSD,NVIDIA GeForce GTX 1660 Ti Max-Q,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),6.059
+MICROSOFT,"10.5"", 1920 x 1280px, Ekran dotykowy",Intel Pentium Gold 4425Y,8,128 GB SSD,Intel UHD Graphics 615,Windows 10 S (możliwość darmowej aktualizacji do Windows 11),2.899
+TECHBITE,"11.6"", 1920 x 1080px, Dotykowy",Intel Celeron N4000,4,64 GB SSD,Intel UHD Graphics 600,Windows 10 Professional,1.049
+LG ELECTRONICS POLSKA SP. Z O.O.,"17.3"", 2560 x 1600px",Intel Core i7-1065G7,8,512 GB SSD,Intel Iris Plus Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),5.499
+MICROSOFT,"10"", 1800 x 1200px, Dotykowy",Intel Pentium Gold 4415Y,8,128 GB SSD,Intel HD Graphics 615,Windows 10 S (możliwość darmowej aktualizacji do Windows 11),2.079
+HP,"14"", 1920 x 1080px, 60Hz",Intel Core i3-1005G1,8,256 GB SSD,Intel UHD Graphics,Windows 10 Home,
+MSI,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-11800H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Brak,
+ASUS,"15.6"", 1920 x 1080px",AMD Ryzen 5 3500U,4,256 GB SSD,AMD Radeon Vega 8,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.549
+ASUS,"15.6"", 2560 x 1440px, 240Hz",32,1000 GB SSD,NVIDIA GeForce RTX 3080,Windows 11 Home,3.8 - 5.0,
+LENOVO,"15.6"", 1920 x 1080px",Intel Core i5-10210U,8,512 GB SSD,Intel UHD Graphics,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),2.999
+ACER,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-9750H,16,1000 GB SSD,NVIDIA GeForce RTX 2060,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),6.399
+ASUS,"11.6"", 1366 x 768px, 60Hz",Intel Celeron N4020,4,64 GB Flash,Intel UHD Graphics 600,Windows 11 Home S,
+MSI,"17.3"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,8,512 GB SSD,NVIDIA GeForce RTX 3050,Brak,
+ASUS,"14"", 2560 x 1600px, 60Hz",Intel Core i5-11300H,16,512 GB SSD,NVIDIA GeForce GTX 1650,Windows 10 Home,2.273
+APPLE,"14.2"", 3024 x 1964px, 120Hz",Apple M1 Pro,32,512 GB SSD,Apple M1 Pro (14 rdzeni),macOS Monterey,4.899
+LENOVO,"14"", 1920 x 1080px, Dotykowy",AMD Ryzen 5 4500U,8,512 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+ACER,"14"", 1920 x 1080px, Ekran dotykowy, 60Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 11 Professional,3.94
+HP,"16.1"", 1920 x 1080px, 144Hz",AMD Ryzen 5 5600H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Brak,4.184
+LENOVO,"15.6"", 1920 x 1080px, 165Hz",AMD Ryzen 5 5600H,16,1000 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.199
+DELL,"15.6"", 1920 x 1080px, 60Hz",Intel Core i7-1165G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,5.499
+ASUS,"14"", 2560 x 1440px, 120Hz",AMD Ryzen 9 5900HS,16,512 GB SSD,NVIDIA GeForce RTX 3060,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.599
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i5-10300H,8,512 GB SSD,NVIDIA GeForce GTX 1650 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+ASUS,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+HP,"16.1"", 2560 x 1440px, 165Hz",AMD Ryzen 7 5800H,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Windows 11 Home,
+APPLE,"14.2"", 3024 x 1964px, 120Hz",Apple M1 Pro,32,1000 GB SSD,Apple M1 Pro (16 rdzeni),macOS Monterey,5.199
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 3 5300U,8,256 GB SSD,AMD Radeon Graphics,Windows 11 Home,7.499
+ACER,"15.6"", 1366 x 768px, 60Hz",Intel Celeron N4020,4,128 GB SSD,Intel UHD Graphics 600,Windows 10 S (możliwość darmowej aktualizacji do Windows 11),
+LENOVO,"15.6"", 1920 x 1080px, 165Hz",AMD Ryzen 7 5800H,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+ACER,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1155G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,
+DELL,"16"", 1920 x 1200px, 60Hz",AMD Ryzen 7 5825U,16,512 GB SSD,AMD Radeon Graphics,Windows 11 Home,3.699
+ASUS,"15.6"", 2560 x 1440px, 165Hz",AMD Ryzen 7 6800H,16,1000 GB SSD,NVIDIA GeForce RTX 3070 Ti,Windows 11 Home,
+HP,"16.1"", 2560 x 1440px, 165Hz",AMD Ryzen 7 5800H,32,1000 GB SSD,NVIDIA GeForce RTX 3070,Brak,4.499
+HP,"16.1"", 1920 x 1080px, 144Hz",Intel Core i7-11800H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 10 Home,5.099
+MICROSOFT,"13"", 2880 x 1920px, Ekran dotykowy, 60 - 120Hz",Intel Core i5-1135G7,8,256 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,3.599
+LENOVO,"15.6"", 1920 x 1080px, 165Hz",Intel Core i7-11800H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,
+MICROSOFT,"13"", 2880 x 1920px, Ekran dotykowy, 60 - 120Hz",Intel Core i5-1135G7,16,256 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,5.599
+MSI,"15.6"", 2560 x 1440px, 240Hz",32,1000 GB SSD,NVIDIA GeForce RTX 3080 Max-Q,Windows 11 Home,2.5 - 5.0,
+LENOVO,"14"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,
+HP,"16.1"", 1920 x 1080px, 144Hz",AMD Ryzen 7 5800H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 10 Home,
+ASUS,"17.3"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+DELL,"16"", 3072 x 1920px, 60Hz",Intel Core i5-11400H,8,512 GB SSD,Intel UHD Graphics,Windows 11 Professional,9.799
+MSI,"14"", 1920 x 1080px, 60Hz",Intel Core i7-1185G7,16,512 GB SSD,NVIDIA GeForce GTX 1650 Max-Q,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+MSI,"13.4"", 1920 x 1200px, Ekran dotykowy, 60Hz",Intel Core i7-1185G7,16,1000 GB SSD,Intel Iris Xe Graphics,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),7.599
+DELL,"16"", 3072 x 1920px, 60Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Professional,
+DELL,"13.3"", 2560 x 1600px, 60Hz",Intel Core i5-11320H,16,512 GB SSD,Intel Iris Xe Graphics,"Windows 11 Professional, Uaktualnienie do Windows 11",
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i7-11800H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,3.499
+MSI,"16"", 2560 x 1600px, Ekran dotykowy, 165Hz",32,2000 GB SSD,NVIDIA GeForce RTX 3080 Ti Max-Q,Windows 11 Professional,2.5 - 5.0,
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i5-11400H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),
+MICROSOFT,"13"", 2880 x 1920px, Ekran dotykowy, 60 - 120Hz",Intel Core i5-1135G7,8,256 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,
+HP,"16.1"", 1920 x 1080px, 144Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3070,Windows 10 Home,
+DREAMMACHINES,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-11800H,16,500 GB SSD,NVIDIA GeForce RTX 3060,Brak,9.999
+HP,"16.1"", 2560 x 1440px, 165Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Windows 11 Home,
+MSI,"17.3"", 1920 x 1080px, 300Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3070,Windows 11 Home,
+DELL,"14.5"", 2560 x 1600px, 60Hz",Intel Core i7-1165G7,16,1000 GB SSD,NVIDIA GeForce MX350,Windows 11 Home,
+MICROSOFT,"13"", 2880 x 1920px, Ekran dotykowy, 60 - 120Hz",Intel Core i7-1185G7,16,256 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,4.599
+DELL,"14"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5500U,16,512 GB SSD,AMD Radeon Graphics,Windows 11 Professional,
+MSI,"17.3"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Home,
+MICROSOFT,"13"", 2880 x 1920px, Ekran dotykowy, 60 - 120Hz",Intel Core i7-1185G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,
+MICROSOFT,"13"", 2880 x 1920px, Ekran dotykowy, 60 - 120Hz",Intel Core i7-1185G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,5.299
+DELL,"14"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,5.199
+DELL,"14"", 1920 x 1080px, Ekran dotykowy, 60Hz",Intel Core i5-1155G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,
+DELL,"15.6"", 1920 x 1080px, 165Hz",Intel Core i7-11800H,16,512 GB SSD,NVIDIA GeForce RTX 3060,Windows 11 Home,7.697
+DELL,"15.6"", 2560 x 1440px, 240Hz",AMD Ryzen 7 5800H,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+DELL,"14"", 1920 x 1080px, 60Hz",AMD Ryzen 7 5700U,16,512 GB SSD,AMD Radeon Graphics,Windows 11 Home,3.199
+DELL,"14"", 1920 x 1080px, Ekran dotykowy, 60Hz",Intel Core i7-1195G7,16,512 GB SSD,NVIDIA GeForce MX350,Windows 11 Home,
+DELL,"16"", 3072 x 1920px, 60Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Windows 11 Home,7.599
+DELL,"13.3"", 1920 x 1200px, 60Hz",Intel Core i7-1165G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),4.499
+MICROSOFT,"10.5"", 1920 x 1280px, Ekran dotykowy, 60Hz",Intel Pentium Gold 6500Y,8,128 GB SSD,Intel UHD Graphics 615,Windows 11 Home S,
+LENOVO,"17.3"", 1920 x 1080px, 144Hz",AMD Ryzen 5 5600H,16,1000 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+MSI,"17.3"", 2560 x 1440px, 240Hz",64,2000 GB SSD,NVIDIA GeForce RTX 3080 Ti,Windows 11 Home,2.5 - 5.0,8.548
+DELL,"16"", 3072 x 1920px, 60Hz",Intel Core i5-11400H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Professional,2.799
+DELL,"13.3"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),
+LENOVO,"16"", 2560 x 1600px, 165Hz",AMD Ryzen 5 5600H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+ASUS,"13.4"", 3840 x 2400px, Ekran dotykowy, 60Hz",Intel Core i9-12900H,16,1000 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 11 Home,
+HP,"15.6"", 1920 x 1080px, Ekran dotykowy, 60Hz",Intel Core i7-1165G7,16,512 GB SSD,NVIDIA GeForce MX450,Windows 10 Home,
+ACER,"15.6"", 3840 x 2160px, Ekran dotykowy, 60Hz",Intel Core i7-11800H,64,1000 GB SSD,NVIDIA GeForce RTX 3080,Windows 11 Professional,
+ASUS,"13.3"", 1920 x 1080px, Dotykowy",Intel Pentium Silver N6000,8,256 GB SSD,Intel UHD Graphics,Windows 11 Home,
+MSI,"15.6"", 2560 x 1440px, 165Hz",Intel Core i9-12900H,16,1000 GB SSD,NVIDIA GeForce RTX 3080,Windows 11 Home,
+MSI,"15.6"", 2560 x 1440px, 240Hz",32,1000 GB SSD,NVIDIA GeForce RTX 3070 Ti Max-Q,Windows 11 Home,3.8 - 5.0,
+APPLE,"16.2"", 3456 x 2234px, 120Hz",Apple M1 Pro,32,1000 GB SSD,Apple M1 Pro (16 rdzeni),macOS Monterey,
+ASUS,"15.6"", 1920 x 1080px, 300Hz",Intel Core i7-10875H,16,512 GB SSD,NVIDIA GeForce RTX 2070 Super,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+DELL,"17"", 3840 x 2400px, Ekran dotykowy, 60Hz",Intel Core i7-10750H,16,1000 GB SSD,NVIDIA GeForce GTX 1650 Ti Max-Q,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+APPLE,"13.3"", 2560 x 1600px, 60Hz",Apple M1,8,1000 GB SSD,Apple M1 (8 rdzeni),macOS Big Sur,
+DELL,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,256 GB SSD,Intel UHD Graphics,Windows 10 Home,
+DELL,"13.4"", 1920 x 1200px, Ekran dotykowy, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),7.349
+LENOVO,"14"", 1920 x 1080px",AMD Ryzen 3 3250U,8,256 GB SSD,AMD Radeon Graphics,Windows 10 Home,
+DELL,"15.6"", 1920 x 1080px, 60Hz",Intel Core i7-1165G7,16,1000 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,
+LENOVO,"15.6"", 1920 x 1080px, 120Hz",Intel Core i5-10300H,8,1000 GB SSD,NVIDIA GeForce GTX 1650,Brak,
+LENOVO,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-10750H,8,1000 GB SSD,NVIDIA GeForce GTX 1650 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+ASUS,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 7 5700U,16,1000 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.799
+ASUS,"14"", 2560 x 1440px, 120Hz",AMD Ryzen 9 5900HS,32,1000 GB SSD,NVIDIA GeForce RTX 3060,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+ASUS,"14"", 2560 x 1440px, 60Hz",AMD Ryzen 7 4800HS,16,1000 GB SSD,NVIDIA GeForce GTX 1660 Ti Max-Q,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),6.599
+ASUS,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+DREAMMACHINES,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3050,Brak,
+APPLE,"13.3"", 2560 x 1600px, 60Hz",Apple M1,8,1000 GB SSD,Apple M1 (8 rdzeni),macOS Big Sur,3.491
+DELL,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5500U,8,512 GB SSD,AMD Radeon Graphics,Windows 10 Professional,1.443
+LG ELECTRONICS POLSKA SP. Z O.O.,"16"", 2560 x 1600px, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+TECHBITE,"13.3"", 1920 x 1080px, Ekran dotykowy, 60Hz",Intel Celeron N4020,4,128 GB Flash,Intel UHD Graphics 600,Windows 10 Professional,
+DELL,"15.6"", 1920 x 1080px, 165Hz",Intel Core i7-10870H,16,512 GB SSD,NVIDIA GeForce RTX 3060,Linux,
+DELL,"15.6"", 1920 x 1080px, 165Hz",Intel Core i7-10870H,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),10.799
+DELL,"14"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,NVIDIA GeForce MX330,Linux,
+DELL,"16"", 3072 x 1920px, 60Hz",Intel Core i7-11800H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+TECHBITE,"11.6"", 1366 x 768px, Ekran dotykowy, 60Hz",Intel Celeron N4020,4,128 GB SSD,Intel UHD Graphics 600,Windows 10 Professional,
+ACER,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-11300H,8,512 GB SSD,NVIDIA GeForce GTX 1650,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+ASUS,"15.6"", 2560 x 1440px, 165Hz",AMD Ryzen 7 5800H,16,1000 GB SSD,NVIDIA GeForce RTX 3070,Brak,14.499
+LENOVO,"15.6"", 1920 x 1080px, 120Hz",AMD Ryzen 5 5600H,16,1000 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+ACER,"17.3"", 1920 x 1080px, 144Hz",Intel Core i5-10300H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+ACER,"17.3"", 1920 x 1080px, 144Hz",Intel Core i5-10300H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Brak,
+DELL,"13.3"", 2560 x 1600px, 60Hz",Intel Core i7-11390H,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Professional,
+ACER,"17.3"", 2560 x 1440px, 60Hz",AMD Ryzen 7 5800H,16,1000 GB SSD,NVIDIA GeForce RTX 3070,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+MSI,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-10300H,8,512 GB SSD,NVIDIA GeForce GTX 1660 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+ACER,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+ASUS,"15.6"", 1920 x 1080px, 144Hz",AMD Ryzen 7 4800H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 7 5700U,16,512 GB SSD,AMD Radeon Graphics,Windows 11 Home,
+MICROSOFT,"13"", 2880 x 1920px, Ekran dotykowy, 60Hz",Microsoft SQ1,8,256 GB SSD,Adreno 685,Windows 11 Home,12.169
+LENOVO,"17.3"", 1920 x 1080px, 144Hz",AMD Ryzen 7 5800H,16,1000 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+ACER,"16"", 2560 x 1600px, 240Hz",Intel Core i7-12700H,32,1000 GB SSD,NVIDIA GeForce RTX 3080 Ti,Windows 11 Home,
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Professional,
+LENOVO,"17.3"", 1600 x 900px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,
+ASUS,"15.6"", 2560 x 1440px, 240Hz",32,1000 GB SSD,NVIDIA GeForce RTX 3070 Ti,Windows 11 Home,3.8 - 5.0,
+ACER,"15.6"", 1920 x 1080px",Intel Pentium Silver N5030,8,1000 GB HDD + 256 GB SSD,Intel UHD Graphics,Brak,
+LENOVO,"14"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+ASUS,"15.6"", 1920 x 1080px, 240Hz",Intel Core i7-10750H,8,1000 GB SSD,NVIDIA GeForce RTX 2070 Max-Q,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),
+LENOVO,"15.6"", 1920 x 1080px",Intel Core i5-1035G1,8,512 GB SSD,Intel UHD Graphics,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),
+ACER,"15.6"", 1920 x 1080px, 300Hz",Intel Core i7-10750H,32,1000 (x2) GB SSD,NVIDIA GeForce RTX 2080 Super Max-Q,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+ASUS,"14"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),
+APPLE,"13.3"", 2560 x 1600px, 60Hz",Intel Core i5-8257U,8,256 GB SSD,Intel Iris Plus Graphics 645,macOS Catalina,
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 3 3250U,4,256 GB SSD,AMD Radeon Graphics,Windows 10 S (możliwość darmowej aktualizacji do Windows 11),
+MICROSOFT,"10"", 1800 x 1200px, Dotykowy",Intel Pentium Gold 4415Y,8,128 GB SSD,Intel HD Graphics 615,Windows 10 S (możliwość darmowej aktualizacji do Windows 11),
+HP,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-10300H,16,512 GB SSD,NVIDIA GeForce GTX 1660 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+DELL,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-10300H,8,1000 GB SSD,NVIDIA GeForce GTX 1650 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+ASUS,"17.3"", 2560 x 1440px, 360Hz",32,1000 GB SSD,NVIDIA GeForce RTX 3070 Ti,Windows 11 Home,2.5 - 5.0,
+DELL,"13.4"", 1920 x 1200px, 60Hz",Intel Core i7-1165G7,16,1000 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+,"17.3"", 1920 x 1080px, 360Hz",AMD Ryzen 9 6900HX,16,1000 GB SSD,NVIDIA GeForce RTX 3070 Ti,Windows 11 Home,
+ASUS,"17.3"", 2560 x 1440px, 240Hz",32,1000 GB SSD,NVIDIA GeForce RTX 3080 Ti,Windows 11 Home,2.5 - 5.0,
+,"16"", 2560 x 1600px, 165Hz",32,1000 GB SSD,NVIDIA GeForce RTX 3070 Ti,Brak,2.5 - 5.0,
+APPLE,"13.3"", 2560 x 1600px, 60Hz",Apple M1,16,256 GB SSD,Apple M1 (8 rdzeni),macOS Big Sur,
+,"16"", 2560 x 1600px, 165Hz",32,1000 GB SSD,NVIDIA GeForce RTX 3070 Ti,Windows 11 Home,2.5 - 5.0,
+HUAWEI,"13.9"", 3000 x 2000px, Ekran dotykowy, 60Hz",Intel Core i5-8250U,8,256 GB SSD,Intel UHD Graphics 620,Windows 10 Home,5.499
+ASUS,"17.3"", 3840 x 2160px, 120Hz",Intel Core i7-11800H,32,1000 GB SSD,NVIDIA GeForce RTX 3070,Windows 10 Home,
+,"16"", 2560 x 1600px, 165Hz",32,1000 GB SSD,NVIDIA GeForce RTX 3080 Ti,Windows 11 Home,2.5 - 5.0,
+HUAWEI,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+,"13.4"", 1920 x 1200px, Ekran dotykowy, 120Hz",Intel Core i7-12700H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,
+DELL,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,256 GB SSD,Intel Iris Xe Graphics,Linux,
+LENOVO,"14"", 2880 x 1800px, 90Hz",AMD Ryzen 5 5600H,16,512 GB SSD,AMD Radeon Graphics,Windows 11 Home,
+ACER,"15.6"", 2560 x 1440px, 165Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+ASUS,"15.6"", 1920 x 1080px, 144Hz",AMD Ryzen 7 4800H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Brak,
+ASUS,"17.3"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Brak,
+LENOVO,"14"", 1920 x 1080px",Intel Core i5-1035G1,8,256 GB SSD,Intel UHD Graphics,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),
+LENOVO,"14"", 1920 x 1080px",Intel Core i5-1035G1,8,256 GB SSD,Intel UHD Graphics,Windows 10 Professional,
+MSI,"17.3"", 1920 x 1080px, 144Hz",Intel Core i7-11800H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+RAZER,"14"", 2560 x 1440px, 165Hz",AMD Ryzen 9 5900HX,16,1000 GB SSD,NVIDIA GeForce RTX 3080,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+ASUS,"14"", 1920 x 1080px, 60Hz",Intel Core i5-1035G1,8,512 GB SSD,Intel UHD Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 4600H,8,512 GB SSD,NVIDIA GeForce GTX 1650,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.799
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,256 GB SSD,Intel Iris Xe Graphics,Windows 10 Professional,5.499
+DELL,"16"", 3072 x 1920px, 60Hz",Intel Core i7-11800H,16,512 GB SSD,Intel UHD Graphics,Windows 11 Professional,4.649
+DELL,"16"", 3072 x 1920px, 60Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Windows 11 Professional,3.599
+MSI,"13.4"", 1920 x 1200px, Ekran dotykowy, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),
+MSI,"17.3"", 1920 x 1080px, 144Hz",Intel Core i7-11800H,16,512 GB SSD,NVIDIA GeForce RTX 3060,Brak,
+DELL,"14"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Linux,
+ACER,"15.6"", 3840 x 2160px, 60Hz",Intel Core i7-10875H,32,1000 (x2) GB SSD,NVIDIA Quadro RTX 5000,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),4.835
+HUAWEI,"14.2"", 2520 x 1680px, Ekran dotykowy, 90Hz",Intel Core i5-11300H,16,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+APPLE,"13.3"", 2560 x 1600px, 60Hz",Apple M1,16,512 GB SSD,Apple M1 (8 rdzeni),macOS Big Sur,
+ACER,"14"", 1920 x 1080px",Intel Pentium N5000,4,64 GB Flash,Intel UHD Graphics 605,Chrome OS,
+ACER,"16"", 2560 x 1600px, 240Hz",Intel Core i9-12900H,32,2000 GB SSD,NVIDIA GeForce RTX 3080 Ti,Windows 11 Home,
+HP,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-10300H,16,512 GB SSD,NVIDIA GeForce RTX 2060 Max-Q,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+ACER,"15.6"", 2560 x 1440px, 165Hz",Intel Core i7-11800H,32,1000 (x2) GB SSD,NVIDIA GeForce RTX 3080,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),5.699
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i7-11800H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Professional,5.499
+DELL,"13.3"", 2560 x 1600px, 60Hz",Intel Core i5-11320H,8,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Professional,5.799
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",Intel Core i3-1115G4,8,512 GB SSD,Intel UHD Graphics,Brak,
+DELL,"14"", 1920 x 1080px, Ekran dotykowy, 60Hz",Intel Core i7-1195G7,16,512 GB SSD,NVIDIA GeForce MX350,Windows 11 Professional,
+DELL,"16"", 3072 x 1920px, 60Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,3.399
+ACER,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Windows 11 Home,
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 3 5300U,8,512 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-11300H,16,512 GB SSD,NVIDIA GeForce GTX 1650,Windows 11 Home,
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i7-12700H,16,512 GB SSD,NVIDIA GeForce RTX 3060,Windows 11 Home,7.799
+APPLE,"13.3"", 2560 x 1600px, 60Hz",Apple M1,8,256 GB SSD,Apple M1 (7 rdzeni),macOS Big Sur,3.899
+APPLE,"13.3"", 2560 x 1600px, 60Hz",Apple M1,16,256 GB SSD,Apple M1 (8 rdzeni),macOS Big Sur,
+HP,"13.3"", 1920 x 1080px, 60Hz",Intel Core i7-1165G7,16,1000 GB SSD,NVIDIA GeForce MX450,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+DELL,"16"", 3072 x 1920px, 60Hz",Intel Core i7-11800H,16,512 GB SSD,Intel UHD Graphics,Windows 11 Home,3.749
+LENOVO,"15.6"", 1920 x 1080px, 165Hz",AMD Ryzen 7 5800H,16,512 GB SSD,NVIDIA GeForce RTX 3070,Brak,
+DELL,"15.6"", 1920 x 1080px, 165Hz",Intel Core i7-11800H,16,512 GB SSD,NVIDIA GeForce RTX 3060,Windows 11 Home,8.499
+HP,"16.1"", 2560 x 1440px, 165Hz",AMD Ryzen 7 5800H,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),5.799
+ACER,"15.6"", 1920 x 1080px, 360Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.999
+LENOVO,"17.3"", 1600 x 900px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Brak,
+ASUS,"15.6"", 3840 x 2160px, 120Hz",AMD Ryzen 9 5980HX,32,1000 GB SSD,NVIDIA GeForce RTX 3080,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),
+LENOVO,"17.3"", 1920 x 1080px, 144Hz",AMD Ryzen 5 5600H,16,512 GB SSD,NVIDIA GeForce RTX 3060,Brak,
+DELL,"15.6"", 1920 x 1080px",Intel Core i5-10300H,8,512 GB SSD,NVIDIA GeForce GTX 1650,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+HUAWEI,"13"", 2160 x 1440px",AMD Ryzen 5 3500U,8,512 GB SSD,AMD Radeon Vega 8,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+ASUS,"17.3"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i5-10300H,8,512 GB SSD,NVIDIA GeForce GTX 1650 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+APPLE,"16.2"", 3456 x 2234px, 120Hz",Apple M1 Pro,16,1000 GB SSD,Apple M1 Pro (16 rdzeni),macOS Monterey,7.799
+MSI,"17.3"", 1920 x 1080px, 360Hz",Intel Core i7-12700H,16,1000 GB SSD,NVIDIA GeForce RTX 3070 Ti,Windows 11 Home,3.999
+MICROSOFT,"12.3"", 2736 x 1824px, Dotykowy",Intel Core i5-8250U,8,128 GB SSD,Intel UHD Graphics 620,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.699
+MICROSOFT,"10"", 1800 x 1200px, Dotykowy",Intel Pentium Gold 4415Y,4,64 GB Flash,Intel HD Graphics 615,Windows 10 S (możliwość darmowej aktualizacji do Windows 11),1.559
+ASUS,"13.3"", 1920 x 1080px, 60Hz",Intel Core i7-1165G7,32,1000 GB SSD,Intel Iris Xe Graphics,Windows 10 Home,12.299
+HP,"17.3"", 1920 x 1080px, 60Hz",Intel Core i5-9300H,8,512 GB SSD,NVIDIA GeForce GTX 1660 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.399
+ACER,"15.6"", 1920 x 1080px",AMD Athlon Silver 3050U,4,128 GB SSD,AMD Radeon Graphics,Windows 10 S (możliwość darmowej aktualizacji do Windows 11),1.699
+ACER,"17.3"", 1920 x 1080px, 120Hz",Intel Core i5-10300H,8,512 GB SSD,NVIDIA GeForce GTX 1650 Ti,Brak,4.599
+DELL,"14"", 1920 x 1080px, 60Hz",Intel Core i5-10310U,8,512 GB SSD,Intel UHD Graphics 620,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),3.899
+ACER,"14"", 1920 x 1080px",AMD Ryzen 5 4500U,8,512 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),
+DELL,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-8300H,8,1000 GB HDD + 128 GB SSD,NVIDIA GeForce GTX 1050,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),6.299
+MICROSOFT,"12.3"", 2736 x 1824px, Dotykowy",Intel Core i5-8250U,8,128 GB SSD,Intel UHD Graphics 620,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.689
+ASUS,"15.6"", 1920 x 1080px",Intel Core i3-1005G1,4,256 GB SSD,Intel UHD Graphics,Brak,1.599
+ACER,"15.6"", 1920 x 1080px",Intel Core i5-1035G1,8,512 GB SSD,Intel UHD Graphics,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),2.949
+ACER,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-9300H,8,512 GB SSD,NVIDIA GeForce GTX 1650,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.159
+ACER,"15.6"", 1920 x 1080px",Intel Core i3-1005G1,8,256 GB SSD,Intel UHD Graphics,Brak,2.299
+LENOVO,"14.1"", 1920 x 1080px",AMD Ryzen 5 4500U,16,1000 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.989
+ACER,"14"", 1920 x 1080px",Intel Celeron N4020,4,64 GB Flash,Intel UHD Graphics 600,Windows 10 S (możliwość darmowej aktualizacji do Windows 11),2.149
+ACER,"15.6"", 1920 x 1080px",Intel Core i5-1035G1,8,512 GB SSD,Intel UHD Graphics,Brak,2.749
+ACER,"15.6"", 1920 x 1080px",Intel Core i3-1005G1,8,256 GB SSD,Intel UHD Graphics 605,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),2.499
+ASUS,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-10870H,16,512 GB SSD,NVIDIA GeForce GTX 1650 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),5.399
+ASUS,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-10870H,16,512 GB SSD,NVIDIA GeForce GTX 1650 Ti,Brak,4.999
+ASUS,"14"", 1920 x 1080px, Ekran dotykowy, 60Hz",AMD Ryzen 5 4500U,8,512 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.999
+TECHBITE,"11.6"", 1366 x 768px, Ekran dotykowy, 60Hz",Intel Celeron N4000,4,64 GB Flash,Intel UHD Graphics 600,Windows 10 Professional,1.299
+ACER,"14"", 1920 x 1080px, 60Hz",Intel Core i7-10750H,16,1000 GB SSD,NVIDIA GeForce GTX 1650 Ti,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),7.299
+ACER,"15.6"", 1920 x 1080px",Intel Core i3-1005G1,8,512 GB SSD,Intel UHD Graphics,Brak,2.019
+DELL,"14"", 1920 x 1080px, 60Hz",Intel Core i5-10210U,8,256 GB SSD,Intel UHD Graphics 620,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),4.499
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",AMD Athlon Silver 3050U,4,128 GB SSD,AMD Radeon Graphics,Brak,1.399
+LENOVO,"14"", 1920 x 1080px, 60Hz",Intel Core i7-1065G7,16,512 GB SSD,Intel Iris Plus Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.799
+ASUS,"14"", 1920 x 1080px, 60Hz",AMD Ryzen 7 5700U,16,512 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.899
+ACER,"17.3"", 1920 x 1080px, 144Hz",Intel Core i5-10300H,16,512 GB SSD,NVIDIA GeForce RTX 3060,Brak,5.499
+HP,"14"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.899
+ASUS,"15.6"", 1920 x 1080px, 300Hz",AMD Ryzen 9 5900HX,16,1000 GB SSD,NVIDIA GeForce RTX 3080,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),11.099
+ASUS,"13.4"", 1920 x 1200px, Ekran dotykowy, 120Hz",AMD Ryzen 9 5900HS,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),7.399
+DELL,"14"", 1920 x 1080px, 60Hz",Intel Core i7-1165G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,4.699
+LENOVO,"17.3"", 1920 x 1080px, 144Hz",AMD Ryzen 7 5800H,16,1000 GB SSD,NVIDIA GeForce RTX 3070,Windows 10 Home,8.599
+LENOVO,"17.3"", 1920 x 1080px, 144Hz",AMD Ryzen 7 5800H,16,512 GB SSD,NVIDIA GeForce RTX 3070,Windows 10 Home,8.299
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 7 4700U,8,512 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.699
+ASUS,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.599
+ACER,"15.6"", 2560 x 1440px, 165Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3070,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),9.149
+ASUS,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Brak,2.699
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 7 4800H,8,512 GB SSD,NVIDIA GeForce GTX 1650 Ti,Brak,3.799
+HP,"14"", 1920 x 1080px, 60Hz",AMD Ryzen 7 4700U,8,512 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.499
+LENOVO,"15.6"", 1920 x 1080px, 120Hz",AMD Ryzen 7 4800H,8,512 GB SSD,NVIDIA GeForce GTX 1650 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.849
+DELL,"15.6"", 3456 x 2160px, Ekran dotykowy, 60Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 11 Professional,13.499
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 4600H,8,512 GB SSD,NVIDIA GeForce GTX 1650 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.799
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 3 3250U,8,256 GB SSD,AMD Radeon Graphics,Windows 10 S,2.099
+HP,"13.3"", 1920 x 1080px, Ekran dotykowy, 60Hz",AMD Ryzen 5 4500U,8,512 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.099
+LG ELECTRONICS POLSKA SP. Z O.O.,"16"", 2560 x 1600px, 60Hz",Intel Core i7-1165G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),5.699
+LENOVO,"14"", 1920 x 1080px, 60Hz",AMD Ryzen 7 4700U,16,512 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.949
+ASUS,"14"", 2560 x 1440px, 120Hz",AMD Ryzen 9 5900HS,16,512 GB SSD,NVIDIA GeForce RTX 3060,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),6.899
+ASUS,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),5.099
+ACER,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,4.899
+ACER,"14"", 1920 x 1080px, Ekran dotykowy, 60Hz",Intel Celeron N4500,4,256 GB SSD,Intel UHD Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.649
+ACER,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),5.699
+DELL,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 7 5700U,16,512 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.599
+ACER,"15.6"", 1920 x 1080px, 300Hz",Intel Core i7-10870H,32,1000 GB SSD,NVIDIA GeForce RTX 3080,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),11.799
+DELL,"15.6"", 1920 x 1080px, 60Hz",Intel Core i7-1165G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Professional,4.499
+ASUS,"15.6"", 1920 x 1080px, 144Hz",AMD Ryzen 7 4800H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Brak,4.899
+ACER,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),5.599
+LENOVO,"16"", 2560 x 1600px, 165Hz",AMD Ryzen 5 5600H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 11 Home,5.299
+LENOVO,"14"", 1920 x 1080px, 60Hz",Intel Core i5-1035G1,8,256 GB SSD,Intel UHD Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.599
+ASUS,"15.6"", 1920 x 1080px, 60Hz",Intel Core i7-11370H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.499
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 3 5300U,8,256 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.599
+LENOVO,"17.3"", 1600 x 900px, 60Hz",AMD Ryzen 5 5500U,8,512 GB SSD,AMD Radeon Graphics,Windows 10 Home,2.799
+LENOVO,"14"", 1920 x 1080px, Ekran dotykowy, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.699
+MSI,"17.3"", 1920 x 1080px, 144Hz",Intel Core i7-11800H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),5.499
+ACER,"14"", 1920 x 1080px, 60Hz",Intel Pentium N4200,4,64 GB Flash,Intel UHD Graphics 605,Chrome OS,1.999
+LENOVO,"17.3"", 1600 x 900px, 60Hz",Intel Core i3-1115G4,8,256 GB SSD,Intel UHD Graphics,Brak,1.999
+LENOVO,"14"", 1920 x 1080px, 60Hz",Intel Core i5-1035G1,8,512 GB SSD,Intel UHD Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.899
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i5-11400H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Linux,4.299
+ACER,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,512 GB SSD,NVIDIA GeForce RTX 3060,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),5.799
+ASUS,"15.6"", 1920 x 1080px, 60Hz",Intel Core i3-1005G1,4,256 GB SSD,Intel UHD Graphics,Windows 11 Home S,1.899
+MICROSOFT,"12.3"", 2736 x 1824px, Dotykowy",Intel Core i5-1035G4,8,128 GB SSD,Intel Iris Plus Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.899
+HP,"16.1"", 1920 x 1080px, 60Hz",Intel Core i5-10300H,8,512 GB SSD,NVIDIA GeForce GTX 1650 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.799
+ASUS,"14"", 2560 x 1440px, 120Hz",AMD Ryzen 7 5800HS,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.799
+ACER,"15.6"", 1920 x 1080px",AMD Ryzen 5 3550H,8,512 GB SSD,NVIDIA GeForce GTX 1650 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.799
+DELL,"14"", 1920 x 1080px",Intel Core i5-1035G1,8,512 GB SSD,Intel UHD Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.799
+ACER,"15.6"", 1920 x 1080px",AMD Ryzen 5 4500U,8,512 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.799
+ASUS,"15.6"", 1920 x 1080px, 60Hz",Intel Core i3-1005G1,4,256 GB SSD,Intel UHD Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),1.899
+DELL,"14"", 1920 x 1080px, Ekran dotykowy, 60Hz",Intel Core i3-1115G4,4,256 GB SSD,Intel Iris Xe Graphics,Windows 10 S (możliwość darmowej aktualizacji do Windows 11),2.699
+LENOVO,"14"", 1920 x 1080px",AMD Ryzen 3 3250U,8,256 GB SSD,AMD Radeon Graphics,Windows 10 S (możliwość darmowej aktualizacji do Windows 11),1.999
+HP,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.199
+MICROSOFT,"12.45"", 1536 x 1024px, Ekran dotykowy",Intel Core i5-1035G1,8,128 GB SSD,Intel UHD Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.999
+ACER,"14"", 1920 x 1080px, 60Hz",Intel Celeron N4500,4,128 GB SSD,Intel UHD Graphics,Windows 10 S (możliwość darmowej aktualizacji do Windows 11),1.299
+ACER,"15.6"", 1920 x 1080px, 120Hz",Intel Core i5-9300H,16,512 GB SSD,NVIDIA GeForce RTX 2060,Brak,4.37
+HP,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.299
+ACER,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-10300H,16,512 GB SSD,NVIDIA GeForce RTX 3060,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.599
+ACER,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.999
+HP,"15.6"", 1920 x 1080px",AMD Ryzen 5 3550H,8,512 GB SSD,NVIDIA GeForce GTX 1650,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.299
+ACER,"15.6"", 1920 x 1080px, 144Hz",AMD Ryzen 5 4600H,8,512 GB SSD,NVIDIA GeForce GTX 1650 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.849
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 3 3250U,4,256 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),1.599
+HP,"15.6"", 1920 x 1080px, 60Hz",Intel Core i3-1115G4,8,256 GB SSD,Intel UHD Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.249
+MICROSOFT,"13.5"", 3000 x 2000px, Dotykowy",Intel Core i5-1035G7,8,256 GB SSD,Intel Iris Plus Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),8.249
+HUAWEI,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-10210U,8,512 GB SSD,Intel UHD Graphics 620,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.699
+LENOVO,"15.6"", 1920 x 1080px",AMD Ryzen 5 3500U,8,512 GB SSD,AMD Radeon Vega 8,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.199
+LENOVO,"15.6"", 1920 x 1080px, 120Hz",AMD Ryzen 7 4800H,8,512 GB SSD,NVIDIA GeForce GTX 1660 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.899
+DREAMMACHINES,"17.3"", 1920 x 1080px, 144Hz",Intel Core i7-11800H,16,500 GB SSD,NVIDIA GeForce RTX 3050 Ti,Brak,5.229
+DREAMMACHINES,"15.6"", 1920 x 1080px, 240Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Brak,7.199
+DREAMMACHINES,"17.3"", 1920 x 1080px, 144Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce GTX 1650,Brak,5.399
+DREAMMACHINES,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,1000 GB SSD,NVIDIA GeForce RTX 3050,Brak,4.519
+ACER,"14"", 1920 x 1080px, 60Hz",Intel Core i5-8265U,8,512 GB SSD,NVIDIA GeForce MX150,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.849
+MICROSOFT,"13.5"", 2256 x 1504px, Ekran dotykowy, 60Hz",Intel Core i5-1145G7,16,512 GB SSD,Intel Iris Plus Graphics 950,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),7.599
+MICROSOFT,"13.5"", 2256 x 1504px, Ekran dotykowy, 60Hz",Intel Core i5-1145G7,16,512 GB SSD,Intel Iris Plus Graphics 950,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),7.599
+MICROSOFT,"12.3"", 2736 x 1824px, Dotykowy",Intel Core i5-1035G4,8,128 GB SSD,Intel Iris Plus Graphics 650,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.5
+ACER,"15.6"", 1920 x 1080px, 300Hz",Intel Core i7-10750H,16,1000 GB SSD,NVIDIA GeForce RTX 2080 Super,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),9.299
+DREAMMACHINES,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,500 GB SSD,NVIDIA GeForce RTX 3050,Brak,4.319
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i7-10870H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Linux,5.699
+DREAMMACHINES,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,1000 GB SSD,NVIDIA GeForce RTX 3050 Ti,Brak,4.509
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i7-10870H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Linux,5.499
+DELL,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Professional,5.199
+DREAMMACHINES,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-10750H,16,1000 GB SSD,NVIDIA GeForce RTX 2070 Max-Q,Brak,6.229
+HP,"13.3"", 1920 x 1080px, 60Hz",Intel Core i7-1065G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),5.199
+MSI,"14"", 1920 x 1080px, Ekran dotykowy, 60Hz",Intel Core i7-1185G7,16,1000 GB SSD,NVIDIA GeForce GTX 1650 Ti Max-Q,Windows 10 Professional (możliwość darmowej aktualizacji do Windows 11),6.599
+ASUS,"14"", 1920 x 1080px, 60Hz",AMD Ryzen 7 5700U,16,512 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.063
+HUAWEI,"14.2"", 2520 x 1680px, Ekran dotykowy, 90Hz",Intel Core i5-11300H,16,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),5.999
+DELL,"13.4"", 1920 x 1200px, Ekran dotykowy, 60Hz",Intel Core i5-1135G7,8,256 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),7.999
+DELL,"15.6"", 1920 x 1080px, 360Hz",Intel Core i7-11800H,16,512 GB SSD,NVIDIA GeForce RTX 3060,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),12.949
+ASUS,"15.6"", 2560 x 1440px, 165Hz",AMD Ryzen 7 5800HS,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),9.199
+RAZER,"13.4"", 3840 x 2400px, Ekran dotykowy, 60Hz",Intel Core i7-1165G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),8.299
+ASUS,"15.6"", 1920 x 1080px, 144Hz",AMD Ryzen 7 5800HS,16,512 GB SSD,NVIDIA GeForce RTX 3060,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),8.999
+DELL,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5500U,8,256 GB SSD,AMD Radeon Graphics,Windows 10 Professional,3.799
+ACER,"16"", 2560 x 1600px, 165Hz",Intel Core i7-11800H,32,1000 GB SSD,NVIDIA GeForce RTX 3080,Windows 10 Home,13.999
+DELL,"15.6"", 1920 x 1080px, 120Hz",AMD Ryzen 7 5800H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 11 Home,5.299
+DELL,"15.6"", 1920 x 1080px, 120Hz",AMD Ryzen 7 5800H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 11 Professional,6.199
+LENOVO,"14"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,3.699
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i7-11800H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Linux,5.199
+DELL,"13.4"", 1920 x 1200px, Ekran dotykowy, 60Hz",Intel Core i5-1135G7,8,256 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,6.643
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i5-10500H,8,512 GB SSD,NVIDIA GeForce GTX 1650,Windows 11 Professional,4.599
+DELL,"13.4"", 1920 x 1200px, 60Hz",Intel Core i5-1135G7,8,256 GB SSD,Intel Iris Xe Graphics,Windows 11 Professional,6.891
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5600U,16,512 GB SSD,AMD Radeon Graphics,Windows 10 Professional,4.199
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Brak,2.599
+MICROSOFT,"13"", 2880 x 1920px, Ekran dotykowy, 60 - 120Hz",Intel Core i7-1185G7,16,256 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,7.699
+LENOVO,"14"", 2240 x 1400px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home,4.449
+LENOVO,"14"", 2240 x 1400px, 60Hz",Intel Core i7-1165G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home,4.799
+MICROSOFT,"13"", 2880 x 1920px, Ekran dotykowy, 60Hz",Microsoft SQ2,16,256 GB SSD,Adreno 687,Windows 11 Home,6.299
+ASUS,"15.6"", 2560 x 1440px, 165Hz",AMD Ryzen 7 6800H,16,1000 GB SSD,NVIDIA GeForce RTX 3070 Ti,Brak,9.899
+ASUS,"1920 x 1200px, Ekran dotykowy, 300Hz",AMD Ryzen 7 6800HS,16,512 GB SSD,NVIDIA GeForce RTX 3050,AMD Ryzen 7 6800HS,7.199
+ASUS,"13.4"", 1920 x 1200px, Ekran dotykowy, 300Hz",Intel Core i7-12700H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,8.299
+ASUS,"13.4"", 3840 x 2400px, Ekran dotykowy, 60Hz",Intel Core i9-12900H,16,1000 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 11 Home,16.599
+ASUS,"17.3"", 1920 x 1080px, 144Hz",AMD Ryzen 7 4800H,16,512 GB SSD,NVIDIA GeForce RTX 3060,Windows 11 Home,6.499
+MICROSOFT,"13"", 2880 x 1920px, Ekran dotykowy, 60 - 120Hz",Intel Core i5-1135G7,16,256 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,6.799
+LENOVO,"17.3"", 1600 x 900px, 60Hz",Intel Core i3-1115G4,8,512 GB SSD,Intel UHD Graphics,Brak,2.273
+LENOVO,"14"", 2240 x 1400px, 60Hz",Intel Core i7-1165G7,16,1000 GB SSD,Intel Iris Xe Graphics,Windows 10 Home,5.299
+ACER,"14"", 1920 x 1080px, Ekran dotykowy, 60Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce GTX 1650,Windows 11 Professional,8.899
+MICROSOFT,"14.4"", 2400 x 1600px, Ekran dotykowy, 60 - 120Hz",Intel Core i5-11300H,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,8.799
+HP,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Brak,3.189
+HP,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-11300H,8,512 GB SSD,NVIDIA GeForce GTX 1650,Windows 11 Home,4.299
+ACER,"15.6"", 3840 x 2160px, Ekran dotykowy, 60Hz",Intel Core i7-11800H,32,1000 GB SSD,NVIDIA RTX A3000,Windows 11 Professional,14.539
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-10210U,8,256 GB SSD,Intel UHD Graphics,Windows 10 Professional,3.399
+MICROSOFT,"14.4"", 2400 x 1600px, Ekran dotykowy, 60 - 120Hz",Intel Core i7-11370H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 11 Home,9.999
+DELL,"16"", 3072 x 1920px, 60Hz",Intel Core i5-11400H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Professional,6.399
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5600H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 11 Home,4.799
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i5-11260H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 11 Professional,5.499
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5600H,8,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,4.399
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i5-11260H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Linux,4.899
+DELL,"16"", 3072 x 1920px, 60Hz",Intel Core i5-11400H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,6.199
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5600H,8,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 11 Home,4.599
+HP,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-11300H,8,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,4.599
+DELL,"16"", 1920 x 1200px, 60Hz",AMD Ryzen 5 5625U,8,512 GB SSD,AMD Radeon Graphics,Windows 11 Home,3.999
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i5-12500H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 11 Home,6.099
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i5-11260H,8,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,4.899
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i5-11260H,8,512 GB SSD,NVIDIA GeForce RTX 3050,Linux,4.499
+DELL,"13"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Professional,7.699
+DELL,"16"", 1920 x 1200px, 60Hz",AMD Ryzen 5 5625U,8,512 GB SSD,AMD Radeon Graphics,Windows 11 Professional,4.199
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i5-12500H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 11 Professional,6.299
+DELL,"16"", 1920 x 1200px, 60Hz",AMD Ryzen 5 5625U,16,512 GB SSD,AMD Radeon Graphics,Windows 11 Home,4.299
+HP,"17.3"", 1920 x 1080px, 144Hz",Intel Core i7-11370H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Brak,5.499
+HP,"17.3"", 1920 x 1080px, 144Hz",Intel Core i5-11300H,8,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Brak,4.799
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i5-11260H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,4.399
+HP,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-11370H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Brak,5.499
+ASUS,"13.3"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,4.199
+MSI,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-1280P,16,512 GB SSD,NVIDIA GeForce RTX 3060 Max-Q,Windows 11 Home,7.299
+ASUS,"15.6"", 1920 x 1080px, 144Hz",AMD Ryzen 7 4800H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Brak,3.899
+ACER,"15.6"", 1920 x 1080px, 60Hz",Intel Celeron N4020,4,128 GB SSD,Intel UHD Graphics 600,Windows 11 Home S,1.799
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i5-11260H,8,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Professional,5.099
+ASUS,"15.6"", 1920 x 1080px, 144Hz",AMD Ryzen 7 6800H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Brak,5.699
+MSI,"14"", 1920 x 1080px, 60Hz",Intel Core i7-1195G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,3.799
+ASUS,"15.6"", 1920 x 1080px, 144Hz",AMD Ryzen 7 4800H,16,512 GB SSD,NVIDIA GeForce RTX 3060,Windows 11 Home,6.199
+LENOVO,"15.6"", 1920 x 1080px, 165Hz",AMD Ryzen 5 5600H,16,1000 GB SSD,NVIDIA GeForce RTX 3050,Brak,4.699
+MSI,"14"", 1920 x 1080px, 60Hz",Intel Core i5-1155G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,2.999
+LENOVO,"15.6"", 1920 x 1080px, 165Hz",AMD Ryzen 7 5800H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Brak,5.249
+LENOVO,"15.6"", 1920 x 1080px, 165Hz",AMD Ryzen 7 5800H,16,1000 GB SSD,NVIDIA GeForce RTX 3070,Brak,7.899
+ACER,"15.6"", 2560 x 1440px, 165Hz",Intel Core i7-12700H,16,1000 GB SSD,NVIDIA GeForce RTX 3070 Ti,Windows 11 Home,9.799
+ACER,"15.6"", 2560 x 1440px, 165Hz",Intel Core i7-12700H,16,512 GB SSD,NVIDIA GeForce RTX 3070 Ti,Windows 11 Home,9.449
+ACER,"15.6"", 1920 x 1080px, 165Hz",Intel Core i7-12700H,16,1000 GB SSD,NVIDIA GeForce RTX 3070 Ti,Windows 11 Home,9.549
+ASUS,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5600H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Home,4.599
+ASUS,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 7 5800H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Home,5.499
+LENOVO,"15.6"", 1920 x 1080px, 120Hz",AMD Ryzen 7 5800H,8,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Brak,4.399
+LENOVO,"15.6"", 1920 x 1080px, 165Hz",Intel Core i5-11400H,8,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Brak,4.189
+LENOVO,"16"", 2560 x 1600px, 60Hz",Intel Core i7-11370H,16,1000 GB SSD,NVIDIA GeForce MX450,Brak,5.049
+MSI,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1155G7,16,512 GB SSD,NVIDIA GeForce GTX 1650 Max-Q,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),5.999
+LG ELECTRONICS POLSKA SP. Z O.O.,"17"", 2560 x 1600px, 60Hz",Intel Core i7-1165G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,6.159
+ASUS,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-11300H,16,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.999
+DYNABOOK,"14"", 1920 x 1080px, Dotykowy",Intel Core i5-8250U,8,256 GB SSD,Intel UHD Graphics 620,Windows 10 Professional,4.619
+DELL,"13.3"", 1920 x 1200px, 60Hz",Intel Core i5-11320H,16,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.199
+MSI,"15.6"", 1920 x 1080px, 240Hz",Intel Core i7-9750H,16,512 GB SSD,NVIDIA GeForce RTX 2070,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),7.799
+LENOVO,"15.6"", 2560 x 1440px, 165Hz",AMD Ryzen 7 5800H,16,1000 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 11 Home,5.899
+MICROSOFT,"13"", 2880 x 1920px, Ekran dotykowy, 60 - 120Hz",Intel Core i5-1135G7,8,256 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,5.799
+LENOVO,"15.6"", 1920 x 1080px, 165Hz",AMD Ryzen 7 5800H,16,1000 GB SSD,NVIDIA GeForce RTX 3070,Windows 10 Home,8.299
+ACER,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-10750H,16,1000 GB SSD,NVIDIA GeForce RTX 3080,Windows 10 Home,9.999
+HP,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,256 GB SSD,Intel Iris Xe Graphics,Windows 10 Home,3.149
+HP,"16.1"", 1920 x 1080px, 144Hz",Intel Core i7-11800H,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Windows 10 Home,7.899
+LG ELECTRONICS POLSKA SP. Z O.O.,"14"", 1920 x 1200px, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,4.835
+HP,"16.1"", 1920 x 1080px, 144Hz",AMD Ryzen 7 5800H,16,1000 GB SSD,NVIDIA GeForce RTX 3070,Windows 10 Home,7.999
+LG ELECTRONICS POLSKA SP. Z O.O.,"14"", 1920 x 1200px, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,5.489
+MICROSOFT,"14.4"", 2400 x 1600px, Ekran dotykowy, 60 - 120Hz",Intel Core i5-11300H,16,256 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,7.899
+MSI,"16"", 2560 x 1600px, Ekran dotykowy, 165Hz",32,2000 GB SSD,NVIDIA GeForce RTX 3070 Ti Max-Q,Windows 11 Professional,2.5 - 5.0,16.599
+ASUS,"15.6"", 1920 x 1080px, 144Hz",AMD Ryzen 7 6800H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,5.099
+LENOVO,"15.6"", 1920 x 1080px, 120Hz",AMD Ryzen 7 5800H,8,512 GB SSD,NVIDIA GeForce GTX 1650,Windows 10 Home,3.999
+LG ELECTRONICS POLSKA SP. Z O.O.,"17"", 2560 x 1600px, 60Hz",Intel Core i7-1165G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,6.154
+ACER,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-10300H,8,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,4.559
+DELL,"15.6"", 1920 x 1080px, 60Hz",Intel Core i7-1165G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,4.299
+LG ELECTRONICS POLSKA SP. Z O.O.,"16"", 2560 x 1600px, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,5.099
+MSI,"15.6"", 1920 x 1080px, 240Hz",AMD Ryzen 9 5900HX,16,1000 GB SSD,AMD Radeon RX 6700M,Windows 10 Home,8.999
+DELL,"17.3"", 1920 x 1080px, 165Hz",Intel Core i7-11800H,16,512 GB SSD,NVIDIA GeForce RTX 3070,Windows 11 Home,13.899
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i5-10500H,16,512 GB SSD,NVIDIA GeForce GTX 1650,Windows 11 Home,5.099
+ACER,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5500U,8,256 GB SSD,NVIDIA GeForce GTX 1650,Brak,3.799
+DELL,"15.6"", 1920 x 1080px, 60Hz",Intel Core i7-1165G7,16,1000 GB SSD,Intel Iris Xe Graphics,Windows 11 Professional,4.466
+DELL,"14"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5500U,8,512 GB SSD,AMD Radeon Graphics,Windows 11 Professional,3.099
+DELL,"15.6"", 1920 x 1080px, 120Hz",AMD Ryzen 7 5800H,16,1000 GB SSD,NVIDIA GeForce RTX 3060,Windows 11 Professional,6.999
+DELL,"14"", 1920 x 1080px, 60Hz",Intel Core i7-1165G7,8,512 GB SSD,NVIDIA GeForce MX330,Windows 11 Professional,4.599
+DELL,"14"", 1920 x 1080px, 60Hz",Intel Core i7-1165G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Professional,4.599
+HP,"13.3"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.149
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i5-10500H,8,512 GB SSD,NVIDIA GeForce GTX 1650,Windows 11 Home,4.699
+DELL,"13.3"", 2560 x 1600px, 60Hz",Intel Core i5-11320H,16,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Professional,4.699
+ASUS,"15.6"", 2560 x 1440px, 165Hz",AMD Ryzen 9 5900HX,16,512 GB SSD,AMD Radeon RX 6800M,Windows 11 Home,8.599
+ACER,"15.6"", 1920 x 1080px, 144Hz",AMD Ryzen 7 5800H,32,1000 GB SSD,NVIDIA GeForce RTX 3060,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),7.559
+HP,"15.6"", 1920 x 1080px, 144Hz",AMD Ryzen 7 5800H,8,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Brak,4.699
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i7-12700H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 11 Home,6.599
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i7-11800H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 11 Home,6.499
+MSI,"15.6"", 2560 x 1440px, 165Hz",Intel Core i7-12700H,16,1000 GB SSD,NVIDIA GeForce RTX 3070 Ti,Windows 11 Home,9.999
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i5-11400H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.899
+MICROSOFT,"10.5"", 1920 x 1280px, Ekran dotykowy, 60Hz",Intel Pentium Gold 6500Y,8,128 GB SSD,Intel UHD Graphics 615,Windows 11 Home S,3.299
+LENOVO,"13.3"", 2560 x 1600px",Intel Core i5-10210U,16,1000 GB SSD,Intel UHD Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.099
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",Intel Core i7-11370H,8,512 GB SSD,NVIDIA GeForce GTX 1650,Windows 11 Home,3.899
+ACER,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-10750H,16,1000 GB SSD,NVIDIA GeForce RTX 3080,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),9.999
+ACER,"17.3"", 1920 x 1080px, 144Hz",AMD Ryzen 5 5600H,8,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,4.999
+ASUS,"14"", 1920 x 1080px, 144Hz",AMD Ryzen 7 5800HS,16,512 GB SSD,NVIDIA GeForce RTX 3060,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),6.799
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5500U,16,512 GB SSD,AMD Radeon Graphics,Windows 11 Home,3.599
+APPLE,"13.3"", 2560 x 1600px",Intel Core i5-1038NG7,16,512 GB SSD,Intel Iris Plus Graphics,macOS Catalina,9.899
+HUAWEI,"12.6"", 2560 x 1600px, Ekran dotykowy, 60Hz",Intel Core i5-1130G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,5.699
+ASUS,"14"", 2880 x 1800px, Ekran dotykowy, 90Hz",Intel Core i7-1165G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home,6.399
+ASUS,"14"", 1920 x 1080px, 144Hz",AMD Ryzen 7 5800HS,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),5.499
+HP,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,256 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,2.999
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i5-11400H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,4.799
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 7 5700U,8,512 GB SSD,AMD Radeon Graphics,Windows 11 Home,3.199
+ASUS,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5600H,16,512 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.999
+ASUS,"15.6"", 1920 x 1080px, 300Hz",AMD Ryzen 9 5900HX,16,512 GB SSD,AMD Radeon RX 6800M,Windows 11 Home,8.129
+LENOVO,"17.3"", 1600 x 900px, 60Hz",Intel Core i3-1115G4,8,512 GB SSD,Intel UHD Graphics,Windows 11 Home,2.637
+ASUS,"14"", 2560 x 1440px, 120Hz",AMD Ryzen 7 5800HS,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),5.999
+LG ELECTRONICS POLSKA SP. Z O.O.,"14"", 1920 x 1200px, Ekran dotykowy, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),6.599
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5600H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Brak,3.799
+DELL,"15.6"", 1920 x 1080px, 120Hz",Intel Core i5-10500H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Linux,3.799
+TECHBITE,"14.1"", 1366 x 768px",Intel Celeron N3450,4,64 GB SSD,Intel HD Graphics 500,Windows 10 Professional,1.149
+LENOVO,"15.6"", 1920 x 1080px, 144Hz",Intel Core i7-10750H,16,512 GB SSD,NVIDIA GeForce RTX 2060,Brak,6.699
+APPLE,"13.3"", 2560 x 1600px",Apple M1,8,512 GB SSD,Apple M1 (8 rdzeni),macOS Big Sur,5.617
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 7 5800H,16,512 GB SSD,NVIDIA GeForce GTX 1650,Brak,3.849
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 4500U,16,512 GB SSD,AMD Radeon Graphics,Windows 10 Home,3.399
+DELL,"13.3"", 2560 x 1600px, 60Hz",Intel Core i5-11300H,16,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.699
+LENOVO,"15.6"", 1920 x 1080px, 120Hz",AMD Ryzen 5 5600H,16,512 GB SSD,NVIDIA GeForce GTX 1650,Windows 11 Home,3.949
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 7 5700U,16,512 GB SSD,AMD Radeon Graphics,Windows 11 Home,3.799
+LENOVO,"14"", 1920 x 1080px, 60Hz",Intel Core i7-1065G7,8,512 GB SSD,Intel Iris Plus Graphics,Brak,3.199
+ASUS,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel UHD Graphics,Brak,2.699
+HP,"15.6"", 1920 x 1080px, 60Hz",Intel Core i3-1115G4,8,256 GB SSD,Intel UHD Graphics,Windows 10 Home,2.449
+DELL,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-10300H,8,1000 GB SSD,NVIDIA GeForce GTX 1650 Ti,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),6.299
+ACER,"17.3"", 1920 x 1080px, 144Hz",Intel Core i5-11300H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,5.799
+HP,"17.3"", 1920 x 1080px, 144Hz",Intel Core i5-11300H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 11 Home,4.999
+APPLE,"13.3"", 2560 x 1600px, 60Hz",Apple M1,16,256 GB SSD,Apple M1 (7 rdzeni),macOS Big Sur,6.199
+LENOVO,"15.6"", 1920 x 1080px, 120Hz",AMD Ryzen 5 5600H,16,512 GB SSD,NVIDIA GeForce GTX 1650,Brak,3.334
+APPLE,"13.3"", 2560 x 1600px, 60Hz",Apple M1,16,256 GB SSD,Apple M1 (7 rdzeni),macOS Big Sur,5.699
+DELL,"14"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5500U,8,512 GB SSD,AMD Radeon Graphics,Windows 11 Home,3.199
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5600H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 10 Home,4.699
+APPLE,"13.3"", 2560 x 1600px, 60Hz",Apple M1,16,512 GB SSD,Apple M1 (8 rdzeni),macOS Big Sur,7.649
+ACER,"17.3"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 11 Home,5.249
+ASUS,"14"", 1366 x 768px, 60Hz",Intel Celeron N4020,4,128 GB SSD,Intel UHD Graphics 600,Windows 11 Home S,1.699
+LENOVO,"15.6"", 1920 x 1080px, 120Hz",Intel Core i5-11300H,8,512 GB SSD,NVIDIA GeForce GTX 1650,Brak,3.199
+APPLE,"13.3"", 2560 x 1600px",Apple M1,8,512 GB SSD,Apple M1 (8 rdzeni),macOS Big Sur,5.617
+HP,"16.1"", 1920 x 1080px, 144Hz",Intel Core i5-11400H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Windows 11 Home,4.799
+LENOVO,"15.6"", 1920 x 1080px, 165Hz",AMD Ryzen 7 5800H,16,512 GB SSD,NVIDIA GeForce RTX 3050 Ti,Brak,4.799
+DELL,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,2.999
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,2.799
+ASUS,"15.6"", 1920 x 1080px, 144Hz",Intel Core i5-10300H,16,512 GB SSD,NVIDIA GeForce GTX 1650,Windows 11 Home,3.699
+ASUS,"14"", 1366 x 768px, 60Hz",Intel Celeron N4020,4,128 GB SSD,Intel UHD Graphics 600,Windows 11 Home S,1.399
+ASUS,"15.6"", 1920 x 1080px",Intel Core i5-11300H,16,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.999
+LENOVO,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 5 5600H,8,512 GB SSD,NVIDIA GeForce GTX 1650,Windows 11 Home,3.499
+APPLE,"13.3"", 2560 x 1600px",Apple M1,8,512 GB SSD,Apple M1 (8 rdzeni),macOS Big Sur,5.617
+HUAWEI,"14"", 2160 x 1440px, Ekran dotykowy, 60Hz",Intel Core i5-1135G7,16,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),3.699
+LENOVO,"15.6"", 1920 x 1080px, 165Hz",AMD Ryzen 5 5600H,16,512 GB SSD,NVIDIA GeForce GTX 1650,Brak,3.899
+HP,"17.3"", 1920 x 1080px, 144Hz",Intel Core i5-11300H,8,512 GB SSD,NVIDIA GeForce RTX 3050,Windows 11 Home,4.899
+HUAWEI,"14.2"", 2520 x 1680px, Ekran dotykowy, 90Hz",Intel Core i5-11300H,8,512 GB SSD,Intel Iris Xe Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),4.999
+APPLE,"13.3"", 2560 x 1600px, 60Hz",Apple M1,16,512 GB SSD,Apple M1 (8 rdzeni),macOS Big Sur,6.999
+ACER,"14"", 1920 x 1080px, 60Hz",Intel Celeron N4500,4,128 GB Flash,Intel UHD Graphics,Windows 11 Home S,1.399
+LENOVO,"17.3"", 1600 x 900px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,2.799
+LENOVO,"17.3"", 1600 x 900px, 60Hz",AMD Ryzen 5 5500U,8,512 GB SSD,AMD Radeon Graphics,Brak,2.199
+ACER,"14"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,3.299
+HP,"15.6"", 1920 x 1080px, 60Hz",Intel Core i5-1135G7,8,512 GB SSD,Intel Iris Xe Graphics,Windows 11 Home,2.799
+MSI,"14"", 1920 x 1080px, 60Hz",Intel Core i3-1115G4,8,512 GB SSD,Intel UHD Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.699
+HP,"15.6"", 1920 x 1080px, 60Hz",AMD Ryzen 3 5300U,4,256 GB SSD,AMD Radeon Graphics,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),2.199
+ACER,"15.6"", 1920 x 1080px, 300Hz",Intel Core i7-10870H,16,1000 GB SSD,NVIDIA GeForce RTX 3080,Windows 10 Home (możliwość darmowej aktualizacji do Windows 11),9.699
